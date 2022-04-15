@@ -1,0 +1,1879 @@
+Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospitalised/Discharged/Deceased,HK/Non-HK resident,Classification*,Case status*
+8917,02/01/2021,01/01/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+8926,03/01/2021,01/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8927,03/01/2021,01/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8928,03/01/2021,02/01/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8930,03/01/2021,02/01/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8938,03/01/2021,01/01/2021,M,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8939,03/01/2021,01/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8940,03/01/2021,01/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8948,03/01/2021,01/01/2021,M,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8949,03/01/2021,01/01/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8951,03/01/2021,02/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8959,03/01/2021,01/01/2021,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8967,04/01/2021,02/01/2021,M,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8970,04/01/2021,01/01/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8971,04/01/2021,02/01/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8974,04/01/2021,01/01/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8976,04/01/2021,02/01/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8977,04/01/2021,01/01/2021,F,60,,Discharged,HK resident,Local case,Confirmed
+8979,04/01/2021,02/01/2021,M,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8981,04/01/2021,02/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8984,04/01/2021,02/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8985,04/01/2021,02/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8994,04/01/2021,02/01/2021,F,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+8996,04/01/2021,01/01/2021,M,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9011,04/01/2021,02/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9012,04/01/2021,02/01/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9013,04/01/2021,02/01/2021,M,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9014,04/01/2021,02/01/2021,F,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9015,04/01/2021,02/01/2021,F,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9017,04/01/2021,02/01/2021,M,69,,Discharged,HK resident,Local case,Confirmed
+9018,04/01/2021,02/01/2021,M,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9019,05/01/2021,02/01/2021,M,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9020,05/01/2021,02/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9021,05/01/2021,04/01/2021,F,85,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9024,05/01/2021,03/01/2021,M,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9029,05/01/2021,01/01/2021,F,28,,Discharged,HK resident,Local case,Confirmed
+9030,05/01/2021,02/01/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9031,05/01/2021,03/01/2021,F,86,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9032,05/01/2021,02/01/2021,M,33,,Discharged,HK resident,Local case,Confirmed
+9034,05/01/2021,01/01/2021,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9035,05/01/2021,01/01/2021,F,74,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9036,05/01/2021,02/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9037,05/01/2021,01/01/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9039,05/01/2021,03/01/2021,F,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9041,05/01/2021,01/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9043,05/01/2021,01/01/2021,M,48,,Discharged,HK resident,Local case,Confirmed
+9045,05/01/2021,02/01/2021,F,77,,Deceased,HK resident,Local case,Confirmed
+9046,05/01/2021,03/01/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+9047,05/01/2021,03/01/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+9053,06/01/2021,04/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9054,06/01/2021,03/01/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+9056,06/01/2021,04/01/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+9058,06/01/2021,03/01/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9061,06/01/2021,04/01/2021,M,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9062,06/01/2021,04/01/2021,M,95,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9063,06/01/2021,04/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9064,06/01/2021,04/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9068,06/01/2021,04/01/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9069,06/01/2021,02/01/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+9070,06/01/2021,03/01/2021,F,34,,Discharged,HK resident,Local case,Confirmed
+9071,06/01/2021,02/01/2021,M,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9073,06/01/2021,04/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9077,07/01/2021,05/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9081,07/01/2021,03/01/2021,M,69,,Discharged,HK resident,Local case,Confirmed
+9086,07/01/2021,05/01/2021,M,5,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9088,07/01/2021,04/01/2021,F,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9089,07/01/2021,04/01/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9090,07/01/2021,04/01/2021,F,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9091,07/01/2021,04/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9093,07/01/2021,05/01/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9094,07/01/2021,05/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9095,07/01/2021,05/01/2021,M,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9096,07/01/2021,05/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9097,07/01/2021,05/01/2021,F,87,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9098,07/01/2021,05/01/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9100,07/01/2021,05/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9105,07/01/2021,06/01/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9108,07/01/2021,05/01/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+9109,08/01/2021,03/01/2021,M,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9113,08/01/2021,04/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9117,08/01/2021,06/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9118,08/01/2021,02/01/2021,F,63,,Discharged,HK resident,Local case,Confirmed
+9120,08/01/2021,05/01/2021,F,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9121,08/01/2021,04/01/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+9122,08/01/2021,05/01/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9123,08/01/2021,02/01/2021,F,59,,Discharged,HK resident,Local case,Confirmed
+9124,08/01/2021,02/01/2021,F,44,,Discharged,HK resident,Local case,Confirmed
+9125,08/01/2021,05/01/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9126,08/01/2021,01/01/2021,F,69,,Discharged,HK resident,Local case,Confirmed
+9129,08/01/2021,04/01/2021,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9130,08/01/2021,05/01/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+9131,08/01/2021,04/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9132,08/01/2021,03/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9135,08/01/2021,05/01/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+9137,08/01/2021,05/01/2021,F,32,,Discharged,HK resident,Local case,Confirmed
+9138,08/01/2021,03/01/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+9139,08/01/2021,06/01/2021,F,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9140,08/01/2021,05/01/2021,F,84,,Discharged,HK resident,Local case,Confirmed
+9141,08/01/2021,05/01/2021,F,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9142,08/01/2021,04/01/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9143,08/01/2021,02/01/2021,F,60,,Discharged,HK resident,Local case,Confirmed
+9144,08/01/2021,05/01/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9145,08/01/2021,01/01/2021,M,77,,Discharged,HK resident,Local case,Confirmed
+9146,08/01/2021,04/01/2021,F,45,,Discharged,HK resident,Local case,Confirmed
+9147,08/01/2021,04/01/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+9149,08/01/2021,02/01/2021,M,25,,Discharged,HK resident,Local case,Confirmed
+9150,08/01/2021,05/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+9152,08/01/2021,05/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+9154,09/01/2021,07/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9157,09/01/2021,07/01/2021,F,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9159,09/01/2021,06/01/2021,F,23,,Discharged,HK resident,Imported case,Confirmed
+9162,09/01/2021,06/01/2021,F,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9163,09/01/2021,06/01/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9165,09/01/2021,05/01/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+9166,09/01/2021,04/01/2021,M,67,,Discharged,HK resident,Local case,Confirmed
+9167,09/01/2021,05/01/2021,M,55,,Discharged,HK resident,Local case,Confirmed
+9168,09/01/2021,06/01/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9172,09/01/2021,06/01/2021,M,80,,Discharged,HK resident,Local case,Confirmed
+9173,09/01/2021,07/01/2021,M,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9174,09/01/2021,05/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9175,09/01/2021,03/01/2021,F,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9176,09/01/2021,06/01/2021,F,3,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9177,09/01/2021,06/01/2021,F,79,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9178,09/01/2021,07/01/2021,F,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9179,09/01/2021,04/01/2021,M,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9180,09/01/2021,07/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9181,09/01/2021,02/01/2021,F,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9182,09/01/2021,05/01/2021,M,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9183,09/01/2021,04/01/2021,F,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9184,09/01/2021,02/01/2021,M,45,,Discharged,HK resident,Local case,Confirmed
+9186,09/01/2021,03/01/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9189,09/01/2021,04/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9190,09/01/2021,03/01/2021,M,64,,Discharged,HK resident,Local case,Confirmed
+9192,09/01/2021,04/01/2021,F,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9194,09/01/2021,02/01/2021,F,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9195,09/01/2021,01/01/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+9197,09/01/2021,07/01/2021,F,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9198,09/01/2021,05/01/2021,M,21,,Discharged,HK resident,Local case,Confirmed
+9199,09/01/2021,07/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9200,09/01/2021,06/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9201,09/01/2021,05/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9202,09/01/2021,04/01/2021,M,60,,Discharged,HK resident,Local case,Confirmed
+9204,09/01/2021,02/01/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+9205,09/01/2021,07/01/2021,M,4,,Discharged,HK resident,Local case,Confirmed
+9206,09/01/2021,04/01/2021,M,33,,Discharged,HK resident,Local case,Confirmed
+9207,09/01/2021,06/01/2021,M,51,,Discharged,HK resident,Local case,Confirmed
+9210,09/01/2021,08/01/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9211,09/01/2021,05/01/2021,M,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9212,09/01/2021,07/01/2021,F,61,,Discharged,HK resident,Local case,Confirmed
+9213,10/01/2021,07/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9216,10/01/2021,08/01/2021,M,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9218,10/01/2021,01/01/2021,F,57,,Discharged,HK resident,Local case,Confirmed
+9220,10/01/2021,08/01/2021,F,60,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+9222,10/01/2021,08/01/2021,M,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9224,10/01/2021,09/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9226,10/01/2021,07/01/2021,M,19,,Discharged,HK resident,Local case,Confirmed
+9227,10/01/2021,03/01/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9228,10/01/2021,06/01/2021,F,76,,Discharged,HK resident,Local case,Confirmed
+9229,10/01/2021,07/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9230,10/01/2021,07/01/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9231,10/01/2021,01/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9232,10/01/2021,06/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9235,10/01/2021,07/01/2021,F,48,,Discharged,HK resident,Local case,Confirmed
+9236,10/01/2021,01/01/2021,M,59,,Discharged,HK resident,Imported case,Confirmed
+9238,10/01/2021,04/01/2021,M,65,,Discharged,HK resident,Local case,Confirmed
+9240,10/01/2021,08/01/2021,M,59,,Discharged,HK resident,Local case,Confirmed
+9242,10/01/2021,08/01/2021,M,47,,Discharged,HK resident,Local case,Confirmed
+9243,10/01/2021,05/01/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9248,11/01/2021,09/01/2021,M,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9249,11/01/2021,05/01/2021,M,55,,Discharged,HK resident,Local case,Confirmed
+9250,11/01/2021,06/01/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9253,11/01/2021,09/01/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9254,11/01/2021,07/01/2021,F,62,,Discharged,HK resident,Local case,Confirmed
+9255,11/01/2021,09/01/2021,M,15,,Discharged,Non-HK resident,Local case,Confirmed
+9256,11/01/2021,09/01/2021,F,3,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9257,11/01/2021,10/01/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9258,11/01/2021,09/01/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9259,11/01/2021,04/01/2021,M,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9260,11/01/2021,09/01/2021,F,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9261,11/01/2021,08/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9262,11/01/2021,09/01/2021,M,51,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+9265,11/01/2021,08/01/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9266,11/01/2021,09/01/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+9267,11/01/2021,06/01/2021,M,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9269,11/01/2021,07/01/2021,F,36,,Discharged,HK resident,Local case,Confirmed
+9270,11/01/2021,09/01/2021,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9273,11/01/2021,09/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+9274,11/01/2021,09/01/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+9276,11/01/2021,09/01/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9277,11/01/2021,09/01/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9279,11/01/2021,05/01/2021,M,30,,Discharged,HK resident,Imported case,Confirmed
+9284,11/01/2021,06/01/2021,F,76,,Discharged,HK resident,Local case,Confirmed
+9285,12/01/2021,10/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9286,12/01/2021,10/01/2021,F,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9288,12/01/2021,10/01/2021,F,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9289,12/01/2021,11/01/2021,M,18,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9290,12/01/2021,10/01/2021,M,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9291,12/01/2021,10/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9297,12/01/2021,10/01/2021,M,32,,Discharged,HK resident,Local case,Confirmed
+9298,12/01/2021,05/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9299,12/01/2021,05/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9300,12/01/2021,09/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9301,12/01/2021,10/01/2021,M,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9302,12/01/2021,08/01/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+9303,12/01/2021,09/01/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9307,12/01/2021,03/01/2021,F,32,,Discharged,HK resident,Local case,Confirmed
+9308,12/01/2021,10/01/2021,M,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9309,12/01/2021,09/01/2021,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9310,12/01/2021,06/01/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9311,12/01/2021,03/01/2021,F,74,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9312,12/01/2021,10/01/2021,F,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9313,12/01/2021,10/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9314,12/01/2021,10/01/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9315,12/01/2021,07/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+9317,12/01/2021,06/01/2021,F,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9319,12/01/2021,10/01/2021,F,48,,Discharged,HK resident,Local case,Confirmed
+9321,12/01/2021,09/01/2021,F,42,,Discharged,HK resident,Local case,Confirmed
+9322,12/01/2021,06/01/2021,F,70,,Discharged,HK resident,Local case,Confirmed
+9324,12/01/2021,08/01/2021,M,70,,Discharged,HK resident,Local case,Confirmed
+9326,12/01/2021,10/01/2021,F,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9334,12/01/2021,10/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9335,12/01/2021,09/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9339,12/01/2021,10/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9340,12/01/2021,08/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9341,12/01/2021,07/01/2021,F,67,,Discharged,HK resident,Local case,Confirmed
+9342,12/01/2021,10/01/2021,M,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9343,12/01/2021,10/01/2021,F,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9347,13/01/2021,10/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9351,13/01/2021,11/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9352,13/01/2021,11/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9353,13/01/2021,10/01/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9354,13/01/2021,11/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9356,13/01/2021,11/01/2021,M,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9357,13/01/2021,11/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9360,13/01/2021,11/01/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9361,13/01/2021,11/01/2021,F,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9362,13/01/2021,11/01/2021,F,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9363,13/01/2021,11/01/2021,M,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9365,13/01/2021,11/01/2021,F,40,,Discharged,HK resident,Local case,Confirmed
+9366,13/01/2021,07/01/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9369,13/01/2021,11/01/2021,F,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9370,13/01/2021,12/01/2021,F,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9373,13/01/2021,11/01/2021,F,40,,Discharged,HK resident,Local case,Confirmed
+9374,13/01/2021,11/01/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9375,13/01/2021,05/01/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9376,13/01/2021,05/01/2021,M,62,,Discharged,Non-HK resident,Local case,Confirmed
+9377,13/01/2021,10/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9378,13/01/2021,09/01/2021,M,50,,Discharged,HK resident,Local case,Confirmed
+9379,13/01/2021,10/01/2021,F,22,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+9380,13/01/2021,11/01/2021,F,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9381,13/01/2021,08/01/2021,F,22,,Discharged,HK resident,Local case,Confirmed
+9382,13/01/2021,10/01/2021,F,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9384,13/01/2021,10/01/2021,F,47,,Discharged,HK resident,Local case,Confirmed
+9386,13/01/2021,10/01/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9387,14/01/2021,12/01/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9391,14/01/2021,11/01/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+9393,14/01/2021,12/01/2021,F,6,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9396,14/01/2021,09/01/2021,M,70,,Discharged,HK resident,Local case,Confirmed
+9397,14/01/2021,10/01/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+9398,14/01/2021,12/01/2021,M,<1,,Discharged,HK resident,Local case,Confirmed
+9399,14/01/2021,09/01/2021,F,43,,Discharged,HK resident,Local case,Confirmed
+9400,14/01/2021,12/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9401,14/01/2021,07/01/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+9403,14/01/2021,08/01/2021,F,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9404,14/01/2021,06/01/2021,M,81,,Discharged,HK resident,Local case,Confirmed
+9405,14/01/2021,08/01/2021,F,45,,Discharged,HK resident,Local case,Confirmed
+9406,14/01/2021,11/01/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+9408,14/01/2021,11/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9409,14/01/2021,08/01/2021,M,47,,Discharged,HK resident,Local case,Confirmed
+9410,14/01/2021,12/01/2021,F,33,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+9411,14/01/2021,11/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9412,14/01/2021,11/01/2021,F,34,,Discharged,Non-HK resident,Local case,Confirmed
+9413,14/01/2021,12/01/2021,F,58,,Discharged,HK resident,Local case,Confirmed
+9414,14/01/2021,10/01/2021,M,37,,Discharged,HK resident,Local case,Confirmed
+9415,14/01/2021,12/01/2021,M,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9418,15/01/2021,13/01/2021,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9420,15/01/2021,09/01/2021,M,64,,Discharged,HK resident,Local case,Confirmed
+9421,15/01/2021,10/01/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+9422,15/01/2021,13/01/2021,M,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9423,15/01/2021,13/01/2021,F,36,,Discharged,HK resident,Local case,Confirmed
+9424,15/01/2021,12/01/2021,M,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9425,15/01/2021,06/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9426,15/01/2021,07/01/2021,M,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9427,15/01/2021,12/01/2021,M,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9428,15/01/2021,12/01/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9429,15/01/2021,13/01/2021,F,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9432,15/01/2021,14/01/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9433,15/01/2021,12/01/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9434,15/01/2021,13/01/2021,M,75,,Discharged,HK resident,Local case,Confirmed
+9435,15/01/2021,10/01/2021,F,70,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9436,15/01/2021,09/01/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+9437,15/01/2021,11/01/2021,M,40,,Discharged,HK resident,Local case,Confirmed
+9438,15/01/2021,11/01/2021,M,68,,Deceased,HK resident,Local case,Confirmed
+9440,15/01/2021,12/01/2021,F,32,,Discharged,HK resident,Local case,Confirmed
+9442,15/01/2021,12/01/2021,F,53,,Discharged,HK resident,Local case,Confirmed
+9444,15/01/2021,12/01/2021,M,15,,Discharged,HK resident,Local case,Confirmed
+9447,15/01/2021,12/01/2021,F,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9451,15/01/2021,13/01/2021,M,28,,Discharged,HK resident,Local case,Confirmed
+9454,16/01/2021,14/01/2021,F,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9456,16/01/2021,12/01/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9458,16/01/2021,15/01/2021,M,70,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9459,16/01/2021,13/01/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9461,16/01/2021,15/01/2021,M,44,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+9464,16/01/2021,14/01/2021,F,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9465,16/01/2021,15/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9466,16/01/2021,13/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9468,16/01/2021,15/01/2021,F,75,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9470,16/01/2021,08/01/2021,M,45,,Discharged,HK resident,Local case,Confirmed
+9472,16/01/2021,13/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9473,16/01/2021,13/01/2021,F,6,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9474,16/01/2021,13/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9475,16/01/2021,13/01/2021,M,50,,Discharged,HK resident,Local case,Confirmed
+9478,16/01/2021,15/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9479,16/01/2021,12/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9481,16/01/2021,07/01/2021,M,34,,Discharged,HK resident,Local case,Confirmed
+9482,16/01/2021,13/01/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9483,16/01/2021,14/01/2021,F,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9485,16/01/2021,13/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9488,16/01/2021,12/01/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9489,16/01/2021,05/01/2021,F,24,,Discharged,HK resident,Local case,Confirmed
+9490,16/01/2021,09/01/2021,M,47,,Discharged,HK resident,Local case,Confirmed
+9491,16/01/2021,14/01/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+9495,16/01/2021,12/01/2021,F,79,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9496,16/01/2021,13/01/2021,F,45,,Discharged,HK resident,Local case,Confirmed
+9497,16/01/2021,13/01/2021,M,60,,Discharged,HK resident,Local case,Confirmed
+9498,16/01/2021,14/01/2021,F,60,,Discharged,HK resident,Local case,Confirmed
+9500,16/01/2021,14/01/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+9501,16/01/2021,08/01/2021,F,28,,Discharged,HK resident,Local case,Confirmed
+9503,16/01/2021,14/01/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9504,17/01/2021,16/01/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9505,17/01/2021,15/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9511,17/01/2021,15/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9512,17/01/2021,14/01/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9513,17/01/2021,15/01/2021,M,48,,Discharged,HK resident,Local case,Confirmed
+9514,17/01/2021,15/01/2021,F,49,,Discharged,HK resident,Local case,Confirmed
+9520,17/01/2021,14/01/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9521,17/01/2021,13/01/2021,F,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9522,17/01/2021,15/01/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9523,17/01/2021,09/01/2021,M,65,,Discharged,HK resident,Local case,Confirmed
+9525,17/01/2021,15/01/2021,F,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9526,17/01/2021,14/01/2021,M,77,,Discharged,HK resident,Local case,Confirmed
+9527,17/01/2021,15/01/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9528,17/01/2021,14/01/2021,F,40,,Discharged,HK resident,Local case,Confirmed
+9532,17/01/2021,10/01/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+9533,17/01/2021,13/01/2021,M,9,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9534,17/01/2021,11/01/2021,F,39,,Discharged,HK resident,Local case,Confirmed
+9537,17/01/2021,13/01/2021,F,26,,Discharged,HK resident,Local case,Confirmed
+9538,17/01/2021,14/01/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9539,17/01/2021,15/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9540,17/01/2021,15/01/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9542,17/01/2021,12/01/2021,F,90,,Deceased,HK resident,Local case,Confirmed
+9543,17/01/2021,13/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9544,17/01/2021,13/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9545,17/01/2021,14/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9546,17/01/2021,15/01/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9549,17/01/2021,14/01/2021,F,44,,Discharged,HK resident,Local case,Confirmed
+9550,17/01/2021,14/01/2021,F,48,,Discharged,HK resident,Local case,Confirmed
+9551,17/01/2021,11/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+9552,17/01/2021,13/01/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+9553,17/01/2021,15/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9554,17/01/2021,14/01/2021,F,87,,Discharged,HK resident,Local case,Confirmed
+9558,17/01/2021,13/01/2021,M,7,,Discharged,HK resident,Local case,Confirmed
+9559,18/01/2021,14/01/2021,F,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9560,18/01/2021,15/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+9563,18/01/2021,16/01/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9564,18/01/2021,16/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9567,18/01/2021,14/01/2021,M,45,,Discharged,HK resident,Local case,Confirmed
+9568,18/01/2021,16/01/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9569,18/01/2021,16/01/2021,F,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9571,18/01/2021,16/01/2021,F,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9572,18/01/2021,14/01/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9573,18/01/2021,16/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9574,18/01/2021,10/01/2021,M,77,,Discharged,HK resident,Local case,Confirmed
+9576,18/01/2021,14/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9577,18/01/2021,16/01/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9578,18/01/2021,14/01/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9579,18/01/2021,12/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9580,18/01/2021,14/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9582,18/01/2021,13/01/2021,M,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9583,18/01/2021,17/01/2021,M,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9586,18/01/2021,14/01/2021,M,6,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9588,18/01/2021,14/01/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9589,18/01/2021,16/01/2021,F,54,,Discharged,HK resident,Imported case,Confirmed
+9590,18/01/2021,10/01/2021,M,39,,Discharged,HK resident,Imported case,Confirmed
+9591,18/01/2021,12/01/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9592,18/01/2021,09/01/2021,M,43,,Discharged,HK resident,Local case,Confirmed
+9593,18/01/2021,12/01/2021,F,49,,Discharged,HK resident,Local case,Confirmed
+9594,18/01/2021,14/01/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+9595,18/01/2021,14/01/2021,F,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9596,18/01/2021,15/01/2021,M,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9597,18/01/2021,15/01/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9598,18/01/2021,09/01/2021,M,52,,Discharged,HK resident,Local case,Confirmed
+9599,18/01/2021,14/01/2021,M,43,,Discharged,HK resident,Local case,Confirmed
+9600,18/01/2021,10/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+9602,18/01/2021,13/01/2021,F,57,,Discharged,HK resident,Local case,Confirmed
+9604,18/01/2021,16/01/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+9605,18/01/2021,10/01/2021,F,45,,Discharged,HK resident,Local case,Confirmed
+9608,18/01/2021,14/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9610,18/01/2021,16/01/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9612,18/01/2021,16/01/2021,M,69,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9614,18/01/2021,15/01/2021,M,49,,Discharged,HK resident,Local case,Confirmed
+9616,18/01/2021,16/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9618,18/01/2021,16/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+9619,18/01/2021,14/01/2021,F,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9620,18/01/2021,15/01/2021,F,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9622,18/01/2021,15/01/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9623,18/01/2021,17/01/2021,M,49,,Discharged,HK resident,Local case,Confirmed
+9625,18/01/2021,14/01/2021,F,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9626,18/01/2021,09/01/2021,M,49,,Discharged,HK resident,Local case,Confirmed
+9627,18/01/2021,17/01/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9628,18/01/2021,15/01/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9629,18/01/2021,13/01/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+9630,18/01/2021,14/01/2021,F,9,,Discharged,HK resident,Local case,Confirmed
+9635,18/01/2021,15/01/2021,M,50,,Discharged,HK resident,Local case,Confirmed
+9639,18/01/2021,16/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9646,18/01/2021,16/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9648,18/01/2021,17/01/2021,M,48,,Discharged,Non-HK resident,Local case,Confirmed
+9649,18/01/2021,17/01/2021,M,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9650,18/01/2021,16/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9651,18/01/2021,14/01/2021,F,73,,Discharged,HK resident,Local case,Confirmed
+9652,18/01/2021,12/01/2021,M,50,,Discharged,HK resident,Local case,Confirmed
+9653,18/01/2021,15/01/2021,F,66,,Discharged,HK resident,Local case,Confirmed
+9654,18/01/2021,15/01/2021,M,28,,Discharged,HK resident,Local case,Confirmed
+9656,18/01/2021,15/01/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+9658,18/01/2021,17/01/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9659,18/01/2021,16/01/2021,F,33,,Discharged,Non-HK resident,Local case,Confirmed
+9660,18/01/2021,15/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9661,18/01/2021,16/01/2021,M,59,,Discharged,HK resident,Local case,Confirmed
+9662,18/01/2021,17/01/2021,M,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9663,18/01/2021,17/01/2021,M,78,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9665,18/01/2021,14/01/2021,M,94,,Discharged,HK resident,Local case,Confirmed
+9667,19/01/2021,16/01/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+9668,19/01/2021,15/01/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9669,19/01/2021,17/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9670,19/01/2021,17/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9671,19/01/2021,17/01/2021,M,3,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9672,19/01/2021,17/01/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9675,19/01/2021,17/01/2021,F,89,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9679,19/01/2021,17/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9682,19/01/2021,15/01/2021,F,63,,Discharged,HK resident,Local case,Confirmed
+9683,19/01/2021,17/01/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9684,19/01/2021,17/01/2021,M,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9685,19/01/2021,16/01/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+9687,19/01/2021,17/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9688,19/01/2021,17/01/2021,F,58,,Discharged,HK resident,Local case,Confirmed
+9689,19/01/2021,17/01/2021,F,12,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9690,19/01/2021,17/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9691,19/01/2021,15/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+9694,19/01/2021,17/01/2021,F,73,,Discharged,HK resident,Local case,Confirmed
+9695,19/01/2021,16/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+9697,19/01/2021,16/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+9698,19/01/2021,15/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+9700,19/01/2021,16/01/2021,F,26,,Discharged,HK resident,Local case,Confirmed
+9701,19/01/2021,17/01/2021,M,79,,Discharged,HK resident,Local case,Confirmed
+9703,19/01/2021,17/01/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+9706,19/01/2021,17/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9707,19/01/2021,17/01/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9708,19/01/2021,15/01/2021,M,14,,Discharged,HK resident,Local case,Confirmed
+9709,19/01/2021,16/01/2021,M,43,,Discharged,HK resident,Local case,Confirmed
+9710,19/01/2021,17/01/2021,M,39,,Discharged,HK resident,Local case,Confirmed
+9713,19/01/2021,17/01/2021,M,68,,Discharged,HK resident,Local case,Confirmed
+9714,19/01/2021,12/01/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+9715,19/01/2021,14/01/2021,M,52,,Discharged,HK resident,Local case,Confirmed
+9716,19/01/2021,08/01/2021,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9717,19/01/2021,12/01/2021,F,63,,Discharged,HK resident,Local case,Confirmed
+9718,19/01/2021,17/01/2021,M,65,,Discharged,HK resident,Local case,Confirmed
+9719,19/01/2021,15/01/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+9721,19/01/2021,15/01/2021,M,16,,Discharged,HK resident,Local case,Confirmed
+9722,20/01/2021,17/01/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9723,20/01/2021,18/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9724,20/01/2021,19/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9725,20/01/2021,18/01/2021,F,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9726,20/01/2021,18/01/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9727,20/01/2021,15/01/2021,F,25,,Discharged,HK resident,Local case,Confirmed
+9728,20/01/2021,15/01/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9729,20/01/2021,17/01/2021,F,52,,Discharged,HK resident,Local case,Confirmed
+9730,20/01/2021,17/01/2021,F,94,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9731,20/01/2021,15/01/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+9732,20/01/2021,18/01/2021,F,77,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9733,20/01/2021,17/01/2021,M,89,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9734,20/01/2021,16/01/2021,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9735,20/01/2021,17/01/2021,F,52,,Discharged,HK resident,Local case,Confirmed
+9736,20/01/2021,13/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9737,20/01/2021,18/01/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9738,20/01/2021,16/01/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9739,20/01/2021,15/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9740,20/01/2021,13/01/2021,M,60,,Discharged,HK resident,Local case,Confirmed
+9741,20/01/2021,13/01/2021,M,42,,Discharged,HK resident,Local case,Confirmed
+9742,20/01/2021,15/01/2021,F,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9743,20/01/2021,15/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9744,20/01/2021,17/01/2021,M,74,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9745,20/01/2021,16/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9746,20/01/2021,17/01/2021,M,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9747,20/01/2021,17/01/2021,F,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9748,20/01/2021,18/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+9751,20/01/2021,18/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9753,20/01/2021,13/01/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+9755,20/01/2021,17/01/2021,M,77,,Discharged,HK resident,Local case,Confirmed
+9756,20/01/2021,18/01/2021,M,57,,Discharged,HK resident,Local case,Confirmed
+9758,20/01/2021,18/01/2021,F,67,,Discharged,HK resident,Local case,Confirmed
+9760,20/01/2021,18/01/2021,M,74,,Discharged,HK resident,Local case,Confirmed
+9761,20/01/2021,18/01/2021,M,19,,Discharged,HK resident,Local case,Confirmed
+9762,20/01/2021,18/01/2021,F,23,,Discharged,HK resident,Local case,Confirmed
+9766,20/01/2021,10/01/2021,M,80,,Discharged,HK resident,Local case,Confirmed
+9767,20/01/2021,19/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9768,20/01/2021,17/01/2021,M,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9769,20/01/2021,11/01/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+9770,20/01/2021,18/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9771,20/01/2021,18/01/2021,M,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9773,20/01/2021,18/01/2021,F,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9785,20/01/2021,18/01/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9786,20/01/2021,12/01/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+9793,20/01/2021,18/01/2021,M,80,,Discharged,HK resident,Local case,Confirmed
+9794,20/01/2021,13/01/2021,F,22,,Discharged,HK resident,Local case,Confirmed
+9795,20/01/2021,17/01/2021,M,32,,Discharged,HK resident,Local case,Confirmed
+9797,20/01/2021,13/01/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+9798,20/01/2021,19/01/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9799,21/01/2021,19/01/2021,F,22,,Discharged,HK resident,Imported case,Confirmed
+9800,21/01/2021,15/01/2021,M,33,,Discharged,HK resident,Imported case,Confirmed
+9802,21/01/2021,14/01/2021,M,63,,Discharged,HK resident,Imported case,Confirmed
+9803,21/01/2021,18/01/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9805,21/01/2021,18/01/2021,M,76,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9807,21/01/2021,19/01/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9808,21/01/2021,18/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9809,21/01/2021,19/01/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9813,21/01/2021,19/01/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9820,21/01/2021,17/01/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9821,21/01/2021,19/01/2021,M,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9822,21/01/2021,18/01/2021,F,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9823,21/01/2021,19/01/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9825,21/01/2021,13/01/2021,M,32,,Discharged,HK resident,Local case,Confirmed
+9826,21/01/2021,14/01/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+9829,21/01/2021,19/01/2021,M,39,,Discharged,HK resident,Local case,Confirmed
+9831,21/01/2021,18/01/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+9832,21/01/2021,17/01/2021,M,18,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9833,21/01/2021,19/01/2021,F,21,,Discharged,HK resident,Imported case,Confirmed
+9834,21/01/2021,11/01/2021,F,25,,Discharged,HK resident,Imported case,Confirmed
+9835,21/01/2021,16/01/2021,F,73,,Discharged,HK resident,Local case,Confirmed
+9837,21/01/2021,18/01/2021,M,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9842,21/01/2021,15/01/2021,M,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9843,21/01/2021,09/01/2021,F,56,,Discharged,HK resident,Local case,Confirmed
+9844,21/01/2021,19/01/2021,F,11,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9846,21/01/2021,13/01/2021,M,7,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9847,21/01/2021,19/01/2021,F,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9848,21/01/2021,18/01/2021,F,32,,Discharged,HK resident,Local case,Confirmed
+9849,21/01/2021,15/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9850,21/01/2021,18/01/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9851,21/01/2021,17/01/2021,M,74,,Discharged,HK resident,Local case,Confirmed
+9852,21/01/2021,16/01/2021,F,66,,Discharged,HK resident,Local case,Confirmed
+9854,21/01/2021,19/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9855,21/01/2021,16/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9858,21/01/2021,19/01/2021,F,82,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9859,21/01/2021,15/01/2021,M,74,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9860,21/01/2021,17/01/2021,M,71,,Discharged,HK resident,Local case,Confirmed
+9861,21/01/2021,16/01/2021,F,14,,Discharged,HK resident,Local case,Confirmed
+9862,21/01/2021,20/01/2021,F,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9863,21/01/2021,18/01/2021,M,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9864,21/01/2021,17/01/2021,F,64,,Discharged,HK resident,Local case,Confirmed
+9866,21/01/2021,19/01/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9867,21/01/2021,19/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+9868,21/01/2021,18/01/2021,M,57,,Discharged,HK resident,Local case,Confirmed
+9869,22/01/2021,18/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9872,22/01/2021,19/01/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9878,22/01/2021,20/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9879,22/01/2021,20/01/2021,F,70,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9880,22/01/2021,20/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9881,22/01/2021,20/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9883,22/01/2021,19/01/2021,M,42,,Discharged,HK resident,Local case,Confirmed
+9884,22/01/2021,13/01/2021,M,86,,Discharged,HK resident,Local case,Confirmed
+9886,22/01/2021,18/01/2021,M,74,,Discharged,HK resident,Local case,Confirmed
+9887,22/01/2021,12/01/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9889,22/01/2021,13/01/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+9890,22/01/2021,20/01/2021,F,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9891,22/01/2021,20/01/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9892,22/01/2021,20/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9894,22/01/2021,18/01/2021,F,31,,Discharged,HK resident,Local case,Confirmed
+9899,22/01/2021,20/01/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9901,22/01/2021,21/01/2021,F,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9902,22/01/2021,21/01/2021,M,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9904,22/01/2021,15/01/2021,F,71,,Discharged,HK resident,Local case,Confirmed
+9905,22/01/2021,16/01/2021,F,51,,Discharged,HK resident,Local case,Confirmed
+9906,22/01/2021,16/01/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+9907,22/01/2021,16/01/2021,M,82,,Discharged,HK resident,Local case,Confirmed
+9908,22/01/2021,17/01/2021,M,77,,Discharged,HK resident,Local case,Confirmed
+9912,22/01/2021,19/01/2021,M,64,,Discharged,HK resident,Local case,Confirmed
+9914,22/01/2021,20/01/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9922,22/01/2021,20/01/2021,M,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9923,22/01/2021,16/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+9924,22/01/2021,20/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+9925,22/01/2021,20/01/2021,M,9,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9926,22/01/2021,20/01/2021,M,22,,Discharged,HK resident,Local case,Confirmed
+9927,22/01/2021,19/01/2021,M,42,,Discharged,HK resident,Local case,Confirmed
+9929,22/01/2021,17/01/2021,M,70,,Discharged,HK resident,Local case,Confirmed
+9935,23/01/2021,22/01/2021,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9936,23/01/2021,22/01/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9939,23/01/2021,16/01/2021,F,60,,Discharged,HK resident,Local case,Confirmed
+9941,23/01/2021,19/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9942,23/01/2021,20/01/2021,F,50,,Discharged,HK resident,Local case,Confirmed
+9944,23/01/2021,15/01/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+9945,23/01/2021,20/01/2021,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9946,23/01/2021,21/01/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+9947,23/01/2021,17/01/2021,M,60,,Discharged,HK resident,Local case,Confirmed
+9949,23/01/2021,16/01/2021,M,76,,Discharged,HK resident,Local case,Confirmed
+9950,23/01/2021,21/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9951,23/01/2021,21/01/2021,F,92,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9952,23/01/2021,21/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+9953,23/01/2021,19/01/2021,F,83,,Deceased,HK resident,Local case,Confirmed
+9954,23/01/2021,19/01/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+9955,23/01/2021,21/01/2021,F,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9956,23/01/2021,16/01/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9957,23/01/2021,19/01/2021,F,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9958,23/01/2021,17/01/2021,M,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9959,23/01/2021,19/01/2021,F,75,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+9960,23/01/2021,19/01/2021,M,43,,Discharged,HK resident,Local case,Confirmed
+9961,23/01/2021,18/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9962,23/01/2021,19/01/2021,M,8,,Discharged,HK resident,Local case,Confirmed
+9963,23/01/2021,21/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9965,23/01/2021,20/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9966,23/01/2021,21/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9967,23/01/2021,20/01/2021,M,60,,Discharged,HK resident,Local case,Confirmed
+9968,23/01/2021,21/01/2021,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9969,23/01/2021,19/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9970,23/01/2021,19/01/2021,F,62,,Discharged,HK resident,Local case,Confirmed
+9971,23/01/2021,17/01/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+9972,23/01/2021,19/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+9973,23/01/2021,18/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+9974,23/01/2021,15/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+9975,23/01/2021,18/01/2021,F,71,,Discharged,HK resident,Local case,Confirmed
+9976,23/01/2021,16/01/2021,F,52,,Discharged,HK resident,Local case,Confirmed
+9978,23/01/2021,17/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9979,23/01/2021,14/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+9980,23/01/2021,14/01/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+9981,23/01/2021,19/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+9982,23/01/2021,20/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9984,23/01/2021,21/01/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9985,23/01/2021,13/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+9987,23/01/2021,21/01/2021,M,42,,Discharged,HK resident,Local case,Confirmed
+9988,23/01/2021,19/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+9989,23/01/2021,21/01/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9995,23/01/2021,21/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9997,23/01/2021,19/01/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+9998,23/01/2021,16/01/2021,M,73,,Discharged,HK resident,Local case,Confirmed
+9999,23/01/2021,18/01/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10000,23/01/2021,20/01/2021,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10001,23/01/2021,19/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+10002,23/01/2021,20/01/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10005,23/01/2021,20/01/2021,M,47,,Discharged,HK resident,Local case,Confirmed
+10008,23/01/2021,21/01/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10011,24/01/2021,22/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10014,24/01/2021,21/01/2021,M,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10016,24/01/2021,22/01/2021,M,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10018,24/01/2021,21/01/2021,F,70,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10019,24/01/2021,22/01/2021,F,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10020,24/01/2021,22/01/2021,F,18,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10022,24/01/2021,22/01/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10023,24/01/2021,22/01/2021,M,79,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+10024,24/01/2021,22/01/2021,F,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10025,24/01/2021,22/01/2021,F,76,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10026,24/01/2021,22/01/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10027,24/01/2021,22/01/2021,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10028,24/01/2021,23/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10031,24/01/2021,11/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10032,24/01/2021,19/01/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10034,24/01/2021,20/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+10035,24/01/2021,22/01/2021,M,90,,Discharged,HK resident,Local case,Confirmed
+10037,24/01/2021,22/01/2021,F,42,,Discharged,HK resident,Imported case,Confirmed
+10038,24/01/2021,16/01/2021,M,12,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10039,24/01/2021,21/01/2021,M,29,,Discharged,HK resident,Local case,Confirmed
+10040,24/01/2021,22/01/2021,F,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10041,24/01/2021,20/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10042,24/01/2021,20/01/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+10043,24/01/2021,20/01/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10044,24/01/2021,18/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+10046,24/01/2021,22/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10048,24/01/2021,22/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10049,24/01/2021,18/01/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10050,24/01/2021,20/01/2021,F,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10051,24/01/2021,19/01/2021,F,29,,Discharged,Non-HK resident,Local case,Confirmed
+10052,24/01/2021,15/01/2021,F,31,,Discharged,HK resident,Local case,Confirmed
+10054,24/01/2021,17/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+10055,24/01/2021,21/01/2021,M,48,,Discharged,HK resident,Local case,Confirmed
+10056,24/01/2021,22/01/2021,M,52,,Discharged,HK resident,Local case,Confirmed
+10057,24/01/2021,18/01/2021,M,51,,Discharged,HK resident,Local case,Confirmed
+10059,24/01/2021,21/01/2021,M,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10060,24/01/2021,21/01/2021,M,36,,Discharged,HK resident,Local case,Confirmed
+10061,24/01/2021,22/01/2021,F,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10062,24/01/2021,22/01/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+10063,24/01/2021,22/01/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10064,24/01/2021,22/01/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+10065,24/01/2021,20/01/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+10067,24/01/2021,22/01/2021,F,25,,Discharged,HK resident,Local case,Confirmed
+10068,24/01/2021,23/01/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10070,24/01/2021,18/01/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+10071,24/01/2021,16/01/2021,F,42,,Discharged,HK resident,Local case,Confirmed
+10072,24/01/2021,22/01/2021,F,8,,Discharged,HK resident,Local case,Confirmed
+10075,24/01/2021,21/01/2021,F,23,,Discharged,HK resident,Imported case,Confirmed
+10076,24/01/2021,14/01/2021,F,21,,Discharged,HK resident,Imported case,Confirmed
+10077,24/01/2021,22/01/2021,M,11,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10078,24/01/2021,22/01/2021,M,9,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10083,24/01/2021,22/01/2021,M,73,,Discharged,HK resident,Local case,Confirmed
+10086,24/01/2021,17/01/2021,M,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10088,25/01/2021,22/01/2021,F,28,,Discharged,HK resident,Local case,Confirmed
+10089,25/01/2021,22/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10090,25/01/2021,22/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10093,25/01/2021,10/01/2021,F,60,,Discharged,HK resident,Local case,Confirmed
+10095,25/01/2021,23/01/2021,M,43,,Discharged,Non-HK resident,Local case,Confirmed
+10096,25/01/2021,23/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+10097,25/01/2021,22/01/2021,M,45,,Discharged,Non-HK resident,Local case,Confirmed
+10099,25/01/2021,22/01/2021,M,72,,Discharged,HK resident,Local case,Confirmed
+10101,25/01/2021,21/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10102,25/01/2021,21/01/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+10103,25/01/2021,22/01/2021,M,39,,Discharged,HK resident,Local case,Confirmed
+10105,25/01/2021,15/01/2021,F,63,,Discharged,HK resident,Local case,Confirmed
+10106,25/01/2021,22/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+10107,25/01/2021,12/01/2021,F,77,,Discharged,HK resident,Local case,Confirmed
+10109,25/01/2021,23/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10110,25/01/2021,22/01/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10111,25/01/2021,23/01/2021,F,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10113,25/01/2021,22/01/2021,M,20,,Discharged,HK resident,Local case,Confirmed
+10114,25/01/2021,21/01/2021,M,82,,Discharged,HK resident,Local case,Confirmed
+10115,25/01/2021,23/01/2021,F,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10119,25/01/2021,23/01/2021,M,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10124,25/01/2021,22/01/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10125,25/01/2021,23/01/2021,M,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10126,25/01/2021,14/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10127,25/01/2021,20/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+10129,25/01/2021,23/01/2021,M,75,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10130,25/01/2021,17/01/2021,F,79,,Discharged,HK resident,Local case,Confirmed
+10133,25/01/2021,20/01/2021,F,66,,Discharged,HK resident,Local case,Confirmed
+10134,25/01/2021,19/01/2021,F,78,,Discharged,HK resident,Local case,Confirmed
+10135,25/01/2021,23/01/2021,M,11,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10137,25/01/2021,22/01/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10138,25/01/2021,23/01/2021,F,3,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10139,25/01/2021,22/01/2021,M,47,,Discharged,HK resident,Local case,Confirmed
+10140,25/01/2021,14/01/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+10141,25/01/2021,21/01/2021,M,62,,Discharged,HK resident,Local case,Confirmed
+10142,25/01/2021,21/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+10143,25/01/2021,22/01/2021,M,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10145,25/01/2021,20/01/2021,F,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10150,25/01/2021,14/01/2021,F,45,,Discharged,HK resident,Local case,Confirmed
+10154,25/01/2021,23/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10155,25/01/2021,22/01/2021,F,67,,Discharged,HK resident,Local case,Confirmed
+10156,25/01/2021,23/01/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+10157,25/01/2021,23/01/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10158,25/01/2021,23/01/2021,F,43,,Discharged,HK resident,Local case,Confirmed
+10159,25/01/2021,23/01/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10160,26/01/2021,24/01/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10163,26/01/2021,24/01/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10166,26/01/2021,23/01/2021,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10167,26/01/2021,23/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10168,26/01/2021,23/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10169,26/01/2021,24/01/2021,F,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10171,26/01/2021,24/01/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10172,26/01/2021,23/01/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10173,26/01/2021,22/01/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+10174,26/01/2021,20/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10175,26/01/2021,24/01/2021,M,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10176,26/01/2021,15/01/2021,F,57,,Discharged,HK resident,Local case,Confirmed
+10177,26/01/2021,20/01/2021,M,46,,Discharged,HK resident,Local case,Confirmed
+10178,26/01/2021,22/01/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+10179,26/01/2021,10/01/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+10180,26/01/2021,25/01/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10181,26/01/2021,21/01/2021,M,12,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10182,26/01/2021,22/01/2021,M,7,,Discharged,HK resident,Local case,Confirmed
+10183,26/01/2021,24/01/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10187,26/01/2021,19/01/2021,F,45,,Discharged,HK resident,Local case,Confirmed
+10188,26/01/2021,23/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10189,26/01/2021,21/01/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10190,26/01/2021,23/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10191,26/01/2021,24/01/2021,F,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10192,26/01/2021,18/01/2021,F,51,,Discharged,HK resident,Local case,Confirmed
+10193,26/01/2021,18/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10194,26/01/2021,24/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10195,26/01/2021,25/01/2021,F,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10196,26/01/2021,22/01/2021,M,64,,Discharged,HK resident,Local case,Confirmed
+10197,26/01/2021,23/01/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10199,26/01/2021,23/01/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10200,26/01/2021,24/01/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10202,26/01/2021,22/01/2021,F,34,,Discharged,HK resident,Local case,Confirmed
+10203,26/01/2021,23/01/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10205,26/01/2021,22/01/2021,M,52,,Discharged,HK resident,Local case,Confirmed
+10207,26/01/2021,22/01/2021,M,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10208,26/01/2021,22/01/2021,F,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10209,26/01/2021,17/01/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10210,26/01/2021,22/01/2021,M,19,,Discharged,HK resident,Local case,Confirmed
+10211,26/01/2021,18/01/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10212,26/01/2021,22/01/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10215,26/01/2021,23/01/2021,F,34,,Discharged,HK resident,Local case,Confirmed
+10216,26/01/2021,23/01/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+10217,26/01/2021,22/01/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+10218,26/01/2021,23/01/2021,M,72,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10220,26/01/2021,24/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10221,26/01/2021,25/01/2021,M,67,,Discharged,HK resident,Local case,Confirmed
+10222,26/01/2021,23/01/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+10223,26/01/2021,15/01/2021,M,72,,Discharged,HK resident,Local case,Confirmed
+10228,27/01/2021,20/01/2021,F,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10229,27/01/2021,12/01/2021,F,58,,Discharged,HK resident,Local case,Confirmed
+10230,27/01/2021,22/01/2021,M,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10232,27/01/2021,24/01/2021,M,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10233,27/01/2021,20/01/2021,M,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10235,27/01/2021,23/01/2021,M,17,,Discharged,HK resident,Local case,Confirmed
+10236,27/01/2021,24/01/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10237,27/01/2021,21/01/2021,M,28,,Discharged,HK resident,Local case,Confirmed
+10238,27/01/2021,25/01/2021,F,88,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+10239,27/01/2021,18/01/2021,F,74,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10240,27/01/2021,24/01/2021,F,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10241,27/01/2021,18/01/2021,M,78,,Discharged,HK resident,Local case,Confirmed
+10242,27/01/2021,24/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10244,27/01/2021,23/01/2021,M,86,,Discharged,HK resident,Local case,Confirmed
+10248,27/01/2021,25/01/2021,M,18,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10249,27/01/2021,24/01/2021,F,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10250,27/01/2021,22/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+10254,27/01/2021,18/01/2021,M,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10255,27/01/2021,19/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10257,27/01/2021,21/01/2021,M,31,,Discharged,HK resident,Local case,Confirmed
+10261,27/01/2021,25/01/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+10262,27/01/2021,24/01/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+10263,27/01/2021,24/01/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10264,27/01/2021,22/01/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+10265,27/01/2021,26/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10266,27/01/2021,24/01/2021,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10267,27/01/2021,15/01/2021,F,40,,Discharged,HK resident,Local case,Confirmed
+10268,27/01/2021,17/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10269,27/01/2021,26/01/2021,M,3,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10272,27/01/2021,23/01/2021,M,22,,Discharged,HK resident,Local case,Confirmed
+10274,27/01/2021,24/01/2021,M,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10275,27/01/2021,23/01/2021,M,65,,Discharged,HK resident,Local case,Confirmed
+10276,27/01/2021,22/01/2021,F,75,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10277,27/01/2021,21/01/2021,F,32,,Discharged,HK resident,Local case,Confirmed
+10278,27/01/2021,22/01/2021,F,84,,Discharged,HK resident,Local case,Confirmed
+10279,27/01/2021,15/01/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+10280,27/01/2021,20/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+10281,27/01/2021,26/01/2021,M,23,,Discharged,HK resident,Imported case,Confirmed
+10283,27/01/2021,24/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+10284,28/01/2021,26/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10285,28/01/2021,14/01/2021,F,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10286,28/01/2021,27/01/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+10287,28/01/2021,26/01/2021,F,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10289,28/01/2021,11/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10290,28/01/2021,24/01/2021,M,40,,Discharged,HK resident,Local case,Confirmed
+10292,28/01/2021,25/01/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+10293,28/01/2021,22/01/2021,M,27,,Discharged,HK resident,Local case,Confirmed
+10294,28/01/2021,26/01/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+10297,28/01/2021,13/01/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+10298,28/01/2021,26/01/2021,M,54,,Discharged,HK resident,Local case,Confirmed
+10299,28/01/2021,17/01/2021,M,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10300,28/01/2021,25/01/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+10301,28/01/2021,23/01/2021,F,70,,Discharged,HK resident,Local case,Confirmed
+10302,28/01/2021,26/01/2021,M,72,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10303,28/01/2021,26/01/2021,M,17,,Discharged,HK resident,Local case,Confirmed
+10304,28/01/2021,25/01/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+10308,28/01/2021,25/01/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10309,28/01/2021,11/01/2021,F,28,,Discharged,HK resident,Local case,Confirmed
+10311,28/01/2021,25/01/2021,F,76,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10312,28/01/2021,18/01/2021,F,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10313,28/01/2021,16/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10314,28/01/2021,25/01/2021,F,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10316,28/01/2021,24/01/2021,M,79,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10317,28/01/2021,27/01/2021,M,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10318,28/01/2021,24/01/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+10321,28/01/2021,24/01/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10324,29/01/2021,10/01/2021,M,87,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+10325,29/01/2021,25/01/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10326,29/01/2021,24/01/2021,M,67,,Discharged,HK resident,Local case,Confirmed
+10327,29/01/2021,25/01/2021,F,20,,Discharged,HK resident,Local case,Confirmed
+10328,29/01/2021,25/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10329,29/01/2021,25/01/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10330,29/01/2021,25/01/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10331,29/01/2021,26/01/2021,M,18,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10332,29/01/2021,25/01/2021,M,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10333,29/01/2021,25/01/2021,M,65,,Discharged,HK resident,Local case,Confirmed
+10334,29/01/2021,18/01/2021,M,50,,Discharged,HK resident,Local case,Confirmed
+10335,29/01/2021,23/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10336,29/01/2021,27/01/2021,M,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10337,29/01/2021,10/01/2021,F,82,,Discharged,HK resident,Local case,Confirmed
+10338,29/01/2021,27/01/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10339,29/01/2021,26/01/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10340,29/01/2021,27/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10341,29/01/2021,20/01/2021,M,43,,Discharged,HK resident,Local case,Confirmed
+10342,29/01/2021,24/01/2021,F,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10343,29/01/2021,25/01/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10344,29/01/2021,26/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10345,29/01/2021,27/01/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10346,29/01/2021,21/01/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10347,29/01/2021,20/01/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10348,29/01/2021,27/01/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10349,29/01/2021,24/01/2021,M,50,,Discharged,HK resident,Local case,Confirmed
+10351,29/01/2021,26/01/2021,M,19,,Discharged,HK resident,Local case,Confirmed
+10352,29/01/2021,26/01/2021,F,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10353,29/01/2021,22/01/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10355,29/01/2021,26/01/2021,M,25,,Discharged,HK resident,Local case,Confirmed
+10356,29/01/2021,24/01/2021,M,85,,Deceased,HK resident,Local case,Confirmed
+10359,29/01/2021,25/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10360,29/01/2021,27/01/2021,M,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10362,29/01/2021,27/01/2021,M,34,,Discharged,HK resident,Imported case,Confirmed
+10365,29/01/2021,23/01/2021,M,42,,Discharged,HK resident,Local case,Confirmed
+10366,29/01/2021,28/01/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10367,29/01/2021,26/01/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10370,29/01/2021,28/01/2021,M,2,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+10372,29/01/2021,26/01/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10373,30/01/2021,21/01/2021,F,85,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10374,30/01/2021,26/01/2021,F,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10375,30/01/2021,26/01/2021,M,50,,Discharged,Non-HK resident,Local case,Confirmed
+10376,30/01/2021,26/01/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+10377,30/01/2021,26/01/2021,F,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10378,30/01/2021,27/01/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10380,30/01/2021,26/01/2021,F,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10381,30/01/2021,27/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10383,30/01/2021,28/01/2021,F,28,,Discharged,HK resident,Local case,Confirmed
+10390,30/01/2021,28/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10392,30/01/2021,28/01/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10399,30/01/2021,27/01/2021,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10401,31/01/2021,27/01/2021,F,15,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10402,31/01/2021,26/01/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10403,31/01/2021,29/01/2021,F,84,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10404,31/01/2021,29/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10405,31/01/2021,18/01/2021,M,14,,Discharged,HK resident,Local case,Confirmed
+10407,31/01/2021,28/01/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10408,31/01/2021,29/01/2021,F,43,,Discharged,HK resident,Imported case,Confirmed
+10415,31/01/2021,28/01/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10416,31/01/2021,29/01/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10417,31/01/2021,22/01/2021,M,81,,Discharged,HK resident,Local case,Confirmed
+10418,31/01/2021,26/01/2021,M,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10419,31/01/2021,29/01/2021,M,55,,Discharged,HK resident,Local case,Confirmed
+10420,31/01/2021,29/01/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10421,31/01/2021,29/01/2021,F,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10422,31/01/2021,27/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10423,31/01/2021,30/01/2021,M,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10427,31/01/2021,27/01/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+10428,31/01/2021,27/01/2021,F,26,,Discharged,HK resident,Local case,Confirmed
+10429,31/01/2021,29/01/2021,M,20,,Discharged,HK resident,Local case,Confirmed
+10430,31/01/2021,23/01/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+10432,31/01/2021,30/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10434,31/01/2021,28/01/2021,F,32,,Discharged,HK resident,Imported case,Confirmed
+10435,31/01/2021,29/01/2021,M,31,,Discharged,Non-HK resident,Local case,Confirmed
+10436,31/01/2021,25/01/2021,M,40,,Discharged,Non-HK resident,Local case,Confirmed
+10442,31/01/2021,27/01/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+10443,31/01/2021,28/01/2021,F,47,,Discharged,HK resident,Local case,Confirmed
+10444,31/01/2021,22/01/2021,F,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10445,31/01/2021,22/01/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10448,31/01/2021,30/01/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+10449,31/01/2021,25/01/2021,F,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10450,31/01/2021,28/01/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10451,31/01/2021,28/01/2021,M,54,,Discharged,HK resident,Local case,Confirmed
+10452,31/01/2021,30/01/2021,M,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10453,31/01/2021,29/01/2021,M,34,,Discharged,HK resident,Local case,Confirmed
+10454,01/02/2021,29/01/2021,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10455,01/02/2021,30/01/2021,M,52,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+10462,01/02/2021,28/01/2021,M,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10464,01/02/2021,30/01/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10465,01/02/2021,30/01/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10466,01/02/2021,26/01/2021,F,28,,Discharged,HK resident,Local case,Confirmed
+10467,01/02/2021,30/01/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10470,01/02/2021,30/01/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10475,01/02/2021,29/01/2021,F,63,,Discharged,HK resident,Local case,Confirmed
+10476,01/02/2021,27/01/2021,F,50,,Discharged,HK resident,Local case,Confirmed
+10479,01/02/2021,27/01/2021,F,72,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10480,01/02/2021,28/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10481,01/02/2021,27/01/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+10482,01/02/2021,24/01/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+10483,01/02/2021,29/01/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10484,01/02/2021,21/01/2021,F,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10485,01/02/2021,30/01/2021,M,83,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10486,01/02/2021,30/01/2021,M,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10487,01/02/2021,21/01/2021,M,51,,Discharged,HK resident,Imported case,Confirmed
+10488,02/02/2021,18/01/2021,F,70,,Discharged,HK resident,Local case,Confirmed
+10492,02/02/2021,31/01/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10493,02/02/2021,31/01/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10494,02/02/2021,31/01/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10496,02/02/2021,31/01/2021,M,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10498,02/02/2021,30/01/2021,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10499,02/02/2021,26/01/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10500,02/02/2021,01/02/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10502,02/02/2021,31/01/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10503,02/02/2021,31/01/2021,F,81,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+10504,02/02/2021,25/01/2021,M,36,,Discharged,HK resident,Local case,Confirmed
+10505,02/02/2021,31/01/2021,F,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10506,02/02/2021,31/01/2021,F,43,,Discharged,HK resident,Local case,Confirmed
+10507,02/02/2021,26/01/2021,F,44,,Discharged,HK resident,Local case,Confirmed
+10508,02/02/2021,01/02/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10510,02/02/2021,29/01/2021,M,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10513,03/02/2021,01/02/2021,M,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10514,03/02/2021,30/01/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+10515,03/02/2021,01/02/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10517,03/02/2021,28/01/2021,M,53,,Discharged,HK resident,Local case,Confirmed
+10518,03/02/2021,01/02/2021,M,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10522,03/02/2021,29/01/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+10523,03/02/2021,01/02/2021,F,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10528,03/02/2021,28/01/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10529,03/02/2021,01/02/2021,F,34,,Discharged,HK resident,Local case,Confirmed
+10530,03/02/2021,27/01/2021,M,19,,Discharged,HK resident,Local case,Confirmed
+10531,03/02/2021,19/01/2021,M,66,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
+10534,04/02/2021,24/01/2021,M,62,,Discharged,HK resident,Local case,Confirmed
+10537,04/02/2021,01/02/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10538,04/02/2021,26/01/2021,M,51,,Discharged,HK resident,Local case,Confirmed
+10539,04/02/2021,02/02/2021,M,18,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10540,04/02/2021,27/01/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10541,04/02/2021,29/01/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10542,04/02/2021,02/02/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+10543,04/02/2021,29/01/2021,F,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10544,04/02/2021,31/01/2021,F,25,,Discharged,HK resident,Local case,Confirmed
+10545,04/02/2021,28/01/2021,F,58,,Discharged,HK resident,Local case,Confirmed
+10546,04/02/2021,02/02/2021,M,72,,Discharged,HK resident,Local case,Confirmed
+10548,04/02/2021,02/02/2021,F,11,,Discharged,HK resident,Local case,Confirmed
+10551,04/02/2021,01/02/2021,M,53,,Discharged,HK resident,Local case,Confirmed
+10554,05/02/2021,03/02/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10556,05/02/2021,30/01/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10559,05/02/2021,01/02/2021,F,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10560,05/02/2021,27/01/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10563,05/02/2021,02/02/2021,M,12,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10566,05/02/2021,28/01/2021,F,75,,Discharged,HK resident,Local case,Confirmed
+10567,05/02/2021,01/02/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10568,05/02/2021,31/01/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10569,05/02/2021,02/02/2021,M,53,,Discharged,HK resident,Imported case,Confirmed
+10571,05/02/2021,02/02/2021,M,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10573,05/02/2021,01/02/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+10574,05/02/2021,03/02/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10576,05/02/2021,03/02/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10577,05/02/2021,03/02/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10578,05/02/2021,02/02/2021,M,87,,Deceased,HK resident,Local case,Confirmed
+10579,05/02/2021,02/02/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10580,05/02/2021,01/02/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+10581,05/02/2021,30/01/2021,M,39,,Discharged,HK resident,Local case,Confirmed
+10583,05/02/2021,02/02/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10584,05/02/2021,01/02/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+10585,05/02/2021,02/02/2021,M,45,,Discharged,HK resident,Local case,Confirmed
+10586,05/02/2021,04/02/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10590,05/02/2021,01/02/2021,F,36,,Discharged,HK resident,Local case,Confirmed
+10591,06/02/2021,03/02/2021,F,83,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10592,06/02/2021,21/01/2021,M,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10595,06/02/2021,03/02/2021,M,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10596,06/02/2021,04/02/2021,M,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10598,06/02/2021,04/02/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10599,06/02/2021,26/01/2021,M,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10600,06/02/2021,02/02/2021,F,69,,Discharged,HK resident,Local case,Confirmed
+10601,06/02/2021,02/02/2021,F,6,,Discharged,HK resident,Local case,Confirmed
+10603,06/02/2021,02/02/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+10604,06/02/2021,03/02/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10605,06/02/2021,04/02/2021,F,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10607,06/02/2021,04/02/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10608,06/02/2021,02/02/2021,M,18,,Discharged,HK resident,Local case,Confirmed
+10609,06/02/2021,01/02/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+10610,07/02/2021,05/02/2021,F,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10612,07/02/2021,05/02/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10613,07/02/2021,04/02/2021,M,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10614,07/02/2021,05/02/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10615,07/02/2021,05/02/2021,F,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10616,07/02/2021,04/02/2021,F,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10617,07/02/2021,04/02/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10618,07/02/2021,02/02/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10619,07/02/2021,03/02/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10629,07/02/2021,04/02/2021,F,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10630,07/02/2021,05/02/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10632,07/02/2021,04/02/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10633,07/02/2021,03/02/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10634,07/02/2021,04/02/2021,M,43,,Discharged,HK resident,Local case,Confirmed
+10635,07/02/2021,03/02/2021,F,32,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+10636,07/02/2021,05/02/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+10637,08/02/2021,06/02/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10640,08/02/2021,06/02/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10641,08/02/2021,03/02/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10642,08/02/2021,22/01/2021,F,56,,Discharged,HK resident,Local case,Confirmed
+10643,08/02/2021,01/02/2021,F,53,,Discharged,HK resident,Local case,Confirmed
+10644,08/02/2021,28/01/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10645,08/02/2021,01/02/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10646,08/02/2021,03/02/2021,F,67,,Discharged,HK resident,Local case,Confirmed
+10647,08/02/2021,04/02/2021,F,4,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10649,08/02/2021,05/02/2021,F,83,,Discharged,HK resident,Local case,Confirmed
+10650,08/02/2021,05/02/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10651,08/02/2021,06/02/2021,F,6,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10652,08/02/2021,02/02/2021,F,57,,Discharged,HK resident,Local case,Confirmed
+10653,08/02/2021,07/02/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10654,08/02/2021,06/02/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10655,08/02/2021,06/02/2021,F,40,,Discharged,HK resident,Local case,Confirmed
+10656,08/02/2021,05/02/2021,F,52,,Discharged,HK resident,Local case,Confirmed
+10657,08/02/2021,05/02/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10659,08/02/2021,29/01/2021,F,80,,Discharged,HK resident,Local case,Confirmed
+10666,08/02/2021,05/02/2021,F,22,,Discharged,HK resident,Local case,Confirmed
+10667,08/02/2021,06/02/2021,M,26,,Discharged,HK resident,Local case,Confirmed
+10671,09/02/2021,08/02/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10672,09/02/2021,03/02/2021,M,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10673,09/02/2021,05/02/2021,F,15,,Discharged,HK resident,Local case,Confirmed
+10674,09/02/2021,05/02/2021,M,21,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10675,09/02/2021,05/02/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10676,09/02/2021,07/02/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10678,09/02/2021,05/02/2021,F,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10679,09/02/2021,05/02/2021,F,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10681,09/02/2021,06/02/2021,M,75,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10682,09/02/2021,03/02/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10683,09/02/2021,07/02/2021,M,59,,Discharged,HK resident,Local case,Confirmed
+10684,09/02/2021,08/02/2021,M,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10685,09/02/2021,04/02/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+10686,09/02/2021,04/02/2021,M,53,,Discharged,HK resident,Local case,Confirmed
+10687,09/02/2021,05/02/2021,M,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10688,09/02/2021,07/02/2021,F,43,,Discharged,HK resident,Imported case,Confirmed
+10689,09/02/2021,07/02/2021,F,33,,Discharged,HK resident,Imported case,Confirmed
+10690,09/02/2021,07/02/2021,M,4,,Discharged,HK resident,Imported case,Confirmed
+10691,09/02/2021,06/02/2021,M,35,,Discharged,HK resident,Imported case,Confirmed
+10692,09/02/2021,08/02/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10694,09/02/2021,07/02/2021,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10695,10/02/2021,06/02/2021,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10696,10/02/2021,06/02/2021,M,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10698,10/02/2021,07/02/2021,M,72,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10699,10/02/2021,02/02/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+10700,10/02/2021,06/02/2021,M,53,,Discharged,HK resident,Local case,Confirmed
+10701,10/02/2021,07/02/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10702,10/02/2021,06/02/2021,M,55,,Discharged,HK resident,Local case,Confirmed
+10703,10/02/2021,04/02/2021,M,13,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10704,10/02/2021,07/02/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10705,10/02/2021,08/02/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+10706,10/02/2021,04/02/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10707,10/02/2021,02/02/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10709,10/02/2021,06/02/2021,M,33,,Discharged,HK resident,Local case,Confirmed
+10710,10/02/2021,09/02/2021,F,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10711,10/02/2021,08/02/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10715,11/02/2021,08/02/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10716,11/02/2021,09/02/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10717,11/02/2021,07/02/2021,F,73,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10720,11/02/2021,05/02/2021,M,40,,Discharged,HK resident,Local case,Confirmed
+10722,11/02/2021,25/01/2021,M,84,,Deceased,HK resident,Local case,Confirmed
+10725,11/02/2021,02/02/2021,M,27,,Discharged,HK resident,Local case,Confirmed
+10726,11/02/2021,09/02/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+10728,11/02/2021,04/02/2021,F,12,,Discharged,HK resident,Local case,Confirmed
+10729,11/02/2021,08/02/2021,M,61,,Discharged,HK resident,Local case,Confirmed
+10732,11/02/2021,07/02/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10734,12/02/2021,09/02/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10735,12/02/2021,09/02/2021,F,42,,Discharged,HK resident,Local case,Confirmed
+10736,12/02/2021,30/01/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10738,12/02/2021,09/02/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+10739,12/02/2021,06/02/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10740,12/02/2021,07/02/2021,F,27,,Discharged,HK resident,Local case,Confirmed
+10741,12/02/2021,09/02/2021,M,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10742,12/02/2021,04/02/2021,F,68,,Discharged,HK resident,Local case,Confirmed
+10743,12/02/2021,10/02/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10744,12/02/2021,10/02/2021,F,6,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10745,12/02/2021,10/02/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10746,12/02/2021,07/02/2021,F,30,,Discharged,HK resident,Imported case,Confirmed
+10747,12/02/2021,08/02/2021,M,48,,Discharged,HK resident,Local case,Confirmed
+10748,12/02/2021,29/01/2021,F,38,,Discharged,HK resident,Imported case,Confirmed
+10750,12/02/2021,09/02/2021,M,67,,Discharged,HK resident,Local case,Confirmed
+10751,12/02/2021,09/02/2021,M,42,,Discharged,HK resident,Local case,Confirmed
+10753,12/02/2021,10/02/2021,M,37,,Discharged,HK resident,Imported case,Confirmed
+10754,12/02/2021,11/02/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10756,12/02/2021,07/02/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+10757,13/02/2021,07/02/2021,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10758,13/02/2021,07/02/2021,F,29,,Discharged,HK resident,Local case,Confirmed
+10759,13/02/2021,06/02/2021,M,39,,Discharged,HK resident,Local case,Confirmed
+10761,13/02/2021,04/02/2021,M,67,,Discharged,HK resident,Imported case,Confirmed
+10762,13/02/2021,11/02/2021,F,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10763,13/02/2021,12/02/2021,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10765,13/02/2021,12/02/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10766,13/02/2021,10/02/2021,F,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10767,13/02/2021,11/02/2021,M,77,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10768,13/02/2021,09/02/2021,F,36,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+10770,14/02/2021,07/02/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10771,14/02/2021,11/02/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+10774,14/02/2021,25/01/2021,F,83,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10775,14/02/2021,10/02/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10778,14/02/2021,08/02/2021,F,35,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+10780,14/02/2021,11/02/2021,F,32,,Discharged,HK resident,Local case,Confirmed
+10781,15/02/2021,13/02/2021,M,34,,Discharged,HK resident,Local case,Confirmed
+10788,15/02/2021,09/02/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+10791,16/02/2021,09/02/2021,F,39,,Discharged,HK resident,Local case,Confirmed
+10792,16/02/2021,13/02/2021,F,30,,Discharged,HK resident,Imported case,Confirmed
+10793,16/02/2021,04/02/2021,M,53,,Discharged,HK resident,Local case,Confirmed
+10795,16/02/2021,11/02/2021,M,89,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10799,17/02/2021,12/02/2021,M,62,,Discharged,HK resident,Local case,Confirmed
+10800,17/02/2021,12/02/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10801,17/02/2021,11/02/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+10802,17/02/2021,14/02/2021,M,34,,Discharged,HK resident,Local case,Confirmed
+10803,17/02/2021,13/02/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10805,17/02/2021,11/02/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10807,17/02/2021,13/02/2021,M,36,,Discharged,HK resident,Local case,Confirmed
+10808,17/02/2021,15/01/2021,M,72,,Discharged,HK resident,Local case,Confirmed
+10809,17/02/2021,14/02/2021,M,32,,Discharged,HK resident,Local case,Confirmed
+10811,17/02/2021,11/02/2021,F,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10812,17/02/2021,15/02/2021,M,29,,Discharged,HK resident,Imported case,Confirmed
+10815,18/02/2021,16/02/2021,M,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10816,18/02/2021,11/02/2021,F,49,,Discharged,HK resident,Local case,Confirmed
+10817,18/02/2021,14/02/2021,F,43,,Discharged,HK resident,Local case,Confirmed
+10818,18/02/2021,15/02/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10820,18/02/2021,12/02/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+10821,18/02/2021,13/02/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10823,19/02/2021,05/02/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10826,19/02/2021,17/02/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10827,19/02/2021,16/02/2021,F,39,,Discharged,HK resident,Local case,Confirmed
+10828,19/02/2021,12/02/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10831,19/02/2021,17/02/2021,F,50,,Discharged,HK resident,Local case,Confirmed
+10832,19/02/2021,14/02/2021,M,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10834,19/02/2021,11/02/2021,M,29,,Discharged,HK resident,Local case,Confirmed
+10835,20/02/2021,13/02/2021,F,70,,Discharged,HK resident,Local case,Confirmed
+10836,20/02/2021,11/02/2021,M,29,,Discharged,HK resident,Local case,Confirmed
+10837,20/02/2021,17/02/2021,M,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10838,20/02/2021,13/02/2021,F,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10840,20/02/2021,14/02/2021,F,22,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10841,20/02/2021,02/02/2021,M,68,,Discharged,HK resident,Local case,Confirmed
+10846,20/02/2021,14/02/2021,M,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10849,20/02/2021,19/02/2021,M,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10850,21/02/2021,18/02/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10851,21/02/2021,19/02/2021,F,85,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10852,21/02/2021,12/02/2021,F,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10853,21/02/2021,14/02/2021,F,2,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10854,21/02/2021,03/02/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10855,21/02/2021,19/02/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10856,21/02/2021,18/02/2021,M,69,,Discharged,HK resident,Local case,Confirmed
+10857,21/02/2021,15/02/2021,M,70,,Discharged,HK resident,Local case,Confirmed
+10858,21/02/2021,18/02/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10859,21/02/2021,09/02/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10864,21/02/2021,12/02/2021,M,33,,Discharged,HK resident,Local case,Confirmed
+10866,21/02/2021,17/02/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+10867,21/02/2021,15/02/2021,M,72,,Discharged,HK resident,Local case,Confirmed
+10868,21/02/2021,12/02/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10869,21/02/2021,14/02/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+10871,22/02/2021,14/02/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10873,22/02/2021,17/02/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10874,22/02/2021,13/02/2021,F,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10875,22/02/2021,20/02/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10876,22/02/2021,19/02/2021,F,66,,Discharged,HK resident,Local case,Confirmed
+10877,22/02/2021,05/02/2021,M,76,,Discharged,HK resident,Local case,Confirmed
+10878,22/02/2021,11/02/2021,M,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10880,22/02/2021,21/02/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10883,22/02/2021,17/02/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+10884,22/02/2021,19/02/2021,M,62,,Discharged,HK resident,Local case,Confirmed
+10885,22/02/2021,20/02/2021,F,45,,Discharged,HK resident,Imported case,Confirmed
+10886,23/02/2021,21/02/2021,M,12,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10887,23/02/2021,21/02/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10888,23/02/2021,21/02/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10889,23/02/2021,15/02/2021,F,63,,Discharged,HK resident,Local case,Confirmed
+10891,23/02/2021,17/02/2021,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10892,23/02/2021,14/02/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10893,23/02/2021,18/02/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10896,23/02/2021,21/02/2021,F,30,,Discharged,HK resident,Local case,Confirmed
+10898,24/02/2021,20/02/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+10899,24/02/2021,16/02/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10900,24/02/2021,22/02/2021,F,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10901,24/02/2021,21/02/2021,M,72,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10902,24/02/2021,01/02/2021,F,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10903,24/02/2021,22/02/2021,F,25,,Discharged,HK resident,Imported case,Confirmed
+10904,24/02/2021,15/02/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+10905,24/02/2021,22/02/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10906,24/02/2021,20/02/2021,M,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10907,24/02/2021,21/02/2021,M,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10908,24/02/2021,22/02/2021,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10909,24/02/2021,17/02/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+10910,24/02/2021,11/02/2021,M,22,,Discharged,HK resident,Local case,Confirmed
+10912,24/02/2021,22/02/2021,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10913,24/02/2021,21/02/2021,M,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10914,24/02/2021,21/02/2021,M,26,,Discharged,HK resident,Local case,Confirmed
+10915,25/02/2021,19/02/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10916,25/02/2021,22/02/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10917,25/02/2021,22/02/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10918,25/02/2021,18/02/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10919,25/02/2021,23/02/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10920,25/02/2021,23/02/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10921,25/02/2021,23/02/2021,M,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10922,25/02/2021,23/02/2021,M,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10923,25/02/2021,20/02/2021,F,45,,Discharged,HK resident,Imported case,Confirmed
+10924,25/02/2021,21/02/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10926,25/02/2021,22/02/2021,M,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10927,25/02/2021,23/02/2021,M,16,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10928,26/02/2021,20/02/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+10929,26/02/2021,23/02/2021,F,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10931,26/02/2021,23/02/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10932,26/02/2021,22/02/2021,F,70,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10935,26/02/2021,20/02/2021,M,17,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10936,26/02/2021,23/02/2021,M,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10937,26/02/2021,24/02/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10938,26/02/2021,21/02/2021,M,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10941,26/02/2021,22/02/2021,F,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10942,26/02/2021,18/02/2021,M,72,,Discharged,HK resident,Local case,Confirmed
+10944,26/02/2021,23/02/2021,M,59,,Discharged,HK resident,Local case,Confirmed
+10945,26/02/2021,22/02/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10946,26/02/2021,24/02/2021,F,30,,Discharged,HK resident,Imported case,Confirmed
+10947,26/02/2021,22/02/2021,M,40,,Discharged,HK resident,Local case,Confirmed
+10948,26/02/2021,22/02/2021,M,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10949,26/02/2021,25/02/2021,F,13,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10950,26/02/2021,24/02/2021,F,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10951,26/02/2021,25/02/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10953,27/02/2021,01/02/2021,F,86,,Deceased,HK resident,Local case,Confirmed
+10954,27/02/2021,25/02/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10956,27/02/2021,25/02/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10957,27/02/2021,22/02/2021,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10958,27/02/2021,23/02/2021,M,16,,Discharged,HK resident,Local case,Confirmed
+10960,27/02/2021,22/02/2021,F,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10961,27/02/2021,22/02/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10962,27/02/2021,24/02/2021,F,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10963,27/02/2021,25/02/2021,M,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10965,27/02/2021,14/02/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+10966,27/02/2021,26/02/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10967,27/02/2021,22/02/2021,M,45,,Discharged,HK resident,Local case,Confirmed
+10968,27/02/2021,23/02/2021,F,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10969,27/02/2021,25/02/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10972,27/02/2021,22/02/2021,M,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10978,27/02/2021,23/02/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10979,27/02/2021,22/02/2021,F,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10982,27/02/2021,26/02/2021,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10983,27/02/2021,22/02/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10984,27/02/2021,26/02/2021,M,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10990,28/02/2021,24/02/2021,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10992,28/02/2021,25/02/2021,F,53,,Discharged,HK resident,Local case,Confirmed
+10994,28/02/2021,26/02/2021,M,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+10995,28/02/2021,21/02/2021,F,33,,Discharged,HK resident,Local case,Confirmed
+11000,28/02/2021,26/02/2021,F,43,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11001,28/02/2021,26/02/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11002,28/02/2021,25/02/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11004,28/02/2021,26/02/2021,F,13,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11009,01/03/2021,26/02/2021,M,23,,Discharged,HK resident,Local case,Confirmed
+11010,01/03/2021,22/02/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11011,01/03/2021,27/02/2021,F,58,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11012,01/03/2021,23/02/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+11013,01/03/2021,27/02/2021,M,35,,Discharged,HK resident,Imported case,Confirmed
+11014,01/03/2021,23/02/2021,M,30,,Discharged,HK resident,Local case,Confirmed
+11015,01/03/2021,26/02/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11016,01/03/2021,22/02/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+11017,01/03/2021,27/02/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11019,01/03/2021,27/02/2021,M,36,,Discharged,HK resident,Local case,Confirmed
+11024,02/03/2021,28/02/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+11025,02/03/2021,27/02/2021,F,14,,Discharged,HK resident,Imported case,Confirmed
+11027,02/03/2021,22/02/2021,F,21,,Discharged,HK resident,Local case,Confirmed
+11028,02/03/2021,28/02/2021,F,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11029,02/03/2021,23/02/2021,F,62,,Discharged,HK resident,Local case,Confirmed
+11030,02/03/2021,24/02/2021,M,68,,Discharged,HK resident,Local case,Confirmed
+11031,02/03/2021,28/02/2021,M,68,,Discharged,HK resident,Local case,Confirmed
+11032,02/03/2021,24/02/2021,F,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11037,03/03/2021,28/02/2021,M,13,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11039,03/03/2021,24/02/2021,M,34,,Discharged,HK resident,Local case,Confirmed
+11040,03/03/2021,01/03/2021,F,67,,Discharged,HK resident,Local case,Confirmed
+11041,03/03/2021,28/02/2021,F,46,,Discharged,HK resident,Local case,Confirmed
+11042,03/03/2021,01/03/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11043,03/03/2021,02/03/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11044,03/03/2021,27/02/2021,M,69,,Discharged,HK resident,Local case,Confirmed
+11046,03/03/2021,01/03/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11047,03/03/2021,22/02/2021,F,53,,Discharged,HK resident,Local case,Confirmed
+11049,04/03/2021,24/02/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11051,04/03/2021,28/02/2021,M,69,,Discharged,HK resident,Local case,Confirmed
+11053,04/03/2021,28/02/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11054,04/03/2021,03/03/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11055,04/03/2021,03/03/2021,M,74,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11056,04/03/2021,02/03/2021,M,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11059,05/03/2021,22/02/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+11061,05/03/2021,01/03/2021,M,47,,Discharged,HK resident,Local case,Confirmed
+11063,05/03/2021,22/02/2021,M,18,,Discharged,HK resident,Local case,Confirmed
+11064,05/03/2021,01/03/2021,M,48,,Discharged,HK resident,Local case,Confirmed
+11065,05/03/2021,28/02/2021,F,37,,Discharged,HK resident,Local case,Confirmed
+11070,06/03/2021,04/03/2021,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11071,06/03/2021,01/03/2021,M,34,,Discharged,HK resident,Local case,Confirmed
+11072,06/03/2021,03/03/2021,M,75,,Discharged,HK resident,Local case,Confirmed
+11073,06/03/2021,04/03/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11074,06/03/2021,04/03/2021,F,46,,Discharged,HK resident,Imported case,Confirmed
+11081,07/03/2021,05/03/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11082,07/03/2021,05/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11084,07/03/2021,01/03/2021,M,51,,Discharged,HK resident,Local case,Confirmed
+11085,07/03/2021,05/03/2021,F,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11086,07/03/2021,01/03/2021,M,32,,Discharged,HK resident,Local case,Confirmed
+11087,07/03/2021,01/03/2021,F,73,,Discharged,HK resident,Local case,Confirmed
+11088,07/03/2021,05/03/2021,F,64,,Discharged,HK resident,Imported case,Confirmed
+11089,07/03/2021,03/03/2021,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11090,07/03/2021,05/03/2021,F,48,,Discharged,HK resident,Local case,Confirmed
+11092,08/03/2021,07/03/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11093,08/03/2021,06/03/2021,M,41,,Discharged,HK resident,Imported case,Confirmed
+11095,08/03/2021,06/03/2021,F,36,,Discharged,HK resident,Local case,Confirmed
+11096,08/03/2021,04/03/2021,F,48,,Discharged,HK resident,Local case,Confirmed
+11097,08/03/2021,04/03/2021,F,41,,Discharged,HK resident,Local case,Confirmed
+11098,08/03/2021,28/02/2021,M,35,,Discharged,HK resident,Local case,Confirmed
+11104,09/03/2021,06/03/2021,F,5,,Discharged,HK resident,Imported case,Confirmed
+11105,09/03/2021,04/03/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11114,09/03/2021,01/03/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+11115,09/03/2021,01/03/2021,M,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11118,09/03/2021,04/03/2021,F,49,,Discharged,HK resident,Local case,Confirmed
+11119,09/03/2021,03/03/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11121,09/03/2021,08/03/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11122,10/03/2021,07/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11123,10/03/2021,21/02/2021,M,26,,Discharged,HK resident,Local case,Confirmed
+11124,10/03/2021,07/03/2021,M,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11126,10/03/2021,07/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11128,10/03/2021,03/03/2021,M,58,,Discharged,HK resident,Local case,Confirmed
+11131,11/03/2021,09/03/2021,M,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11133,11/03/2021,08/03/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+11135,11/03/2021,05/03/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+11136,11/03/2021,08/03/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11137,11/03/2021,08/03/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11138,11/03/2021,09/03/2021,M,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11139,11/03/2021,08/03/2021,F,23,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11140,11/03/2021,09/03/2021,F,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11141,11/03/2021,09/03/2021,F,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11146,11/03/2021,09/03/2021,F,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11147,11/03/2021,09/03/2021,M,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11152,12/03/2021,08/03/2021,F,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11153,12/03/2021,07/03/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11156,12/03/2021,10/03/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11157,12/03/2021,08/03/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11158,12/03/2021,10/03/2021,F,12,,Discharged,HK resident,Local case,Confirmed
+11159,12/03/2021,10/03/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11161,12/03/2021,09/03/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11162,12/03/2021,10/03/2021,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11163,12/03/2021,10/03/2021,M,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11164,12/03/2021,10/03/2021,M,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11166,12/03/2021,11/03/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11168,12/03/2021,10/03/2021,M,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11169,12/03/2021,09/03/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11174,12/03/2021,10/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11175,12/03/2021,10/03/2021,F,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11177,12/03/2021,10/03/2021,F,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11178,12/03/2021,06/03/2021,F,56,,Discharged,HK resident,Local case,Confirmed
+11179,12/03/2021,10/03/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11180,12/03/2021,11/03/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11181,12/03/2021,11/03/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11183,12/03/2021,03/03/2021,F,51,,Discharged,HK resident,Imported case,Confirmed
+11186,12/03/2021,09/03/2021,M,40,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11187,12/03/2021,09/03/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11188,12/03/2021,08/03/2021,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11190,12/03/2021,10/03/2021,F,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11191,12/03/2021,06/03/2021,F,54,,Discharged,HK resident,Local case,Confirmed
+11192,12/03/2021,06/03/2021,F,32,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11194,12/03/2021,09/03/2021,F,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11197,12/03/2021,10/03/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11198,12/03/2021,09/03/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11200,12/03/2021,06/03/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+11201,12/03/2021,11/03/2021,M,20,,Discharged,HK resident,Local case,Confirmed
+11204,12/03/2021,11/03/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11208,12/03/2021,11/03/2021,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11209,12/03/2021,08/03/2021,F,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11211,12/03/2021,08/03/2021,M,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11212,13/03/2021,10/03/2021,F,21,,Discharged,HK resident,Imported case,Confirmed
+11213,13/03/2021,11/03/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11214,13/03/2021,12/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11215,13/03/2021,09/03/2021,F,11,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11216,13/03/2021,07/03/2021,F,40,,Discharged,HK resident,Imported case,Confirmed
+11221,13/03/2021,09/03/2021,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11222,13/03/2021,11/03/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11224,13/03/2021,11/03/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11225,13/03/2021,11/03/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11226,13/03/2021,11/03/2021,F,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11227,13/03/2021,10/03/2021,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11228,13/03/2021,11/03/2021,F,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11229,13/03/2021,11/03/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11231,13/03/2021,12/03/2021,M,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11232,13/03/2021,10/03/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11236,13/03/2021,11/03/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11237,13/03/2021,10/03/2021,M,27,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11238,13/03/2021,12/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11239,13/03/2021,11/03/2021,M,48,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11242,13/03/2021,11/03/2021,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11245,13/03/2021,06/03/2021,F,82,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11249,13/03/2021,12/03/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11250,13/03/2021,12/03/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11253,13/03/2021,09/03/2021,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11254,13/03/2021,11/03/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11258,13/03/2021,10/03/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11259,14/03/2021,10/03/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+11260,14/03/2021,13/03/2021,M,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11261,14/03/2021,09/03/2021,F,65,,Discharged,HK resident,Local case,Confirmed
+11262,14/03/2021,08/03/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11268,14/03/2021,12/03/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11270,14/03/2021,13/03/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11271,14/03/2021,13/03/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11272,14/03/2021,09/03/2021,M,64,,Discharged,HK resident,Local case,Confirmed
+11273,14/03/2021,11/03/2021,M,12,,Discharged,HK resident,Local case,Confirmed
+11274,14/03/2021,13/03/2021,M,30,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11276,14/03/2021,13/03/2021,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11277,14/03/2021,13/03/2021,F,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11278,14/03/2021,06/03/2021,F,5,,Discharged,HK resident,Local case,Confirmed
+11280,14/03/2021,09/03/2021,F,67,,Discharged,HK resident,Local case,Confirmed
+11281,14/03/2021,12/03/2021,M,44,,Discharged,HK resident,Local case,Confirmed
+11282,14/03/2021,09/03/2021,M,39,,Discharged,HK resident,Local case,Confirmed
+11285,15/03/2021,03/03/2021,M,37,,Discharged,Non-HK resident,Imported case,Confirmed
+11286,15/03/2021,12/03/2021,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11292,15/03/2021,13/03/2021,M,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11293,15/03/2021,13/03/2021,M,81,,Discharged,HK resident,Local case,Confirmed
+11294,15/03/2021,13/03/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11295,15/03/2021,13/03/2021,F,45,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11297,15/03/2021,13/03/2021,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11302,15/03/2021,13/03/2021,M,39,,Discharged,HK resident,Imported case,Confirmed
+11304,15/03/2021,12/03/2021,F,19,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11305,15/03/2021,14/03/2021,F,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11307,15/03/2021,13/03/2021,F,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11311,15/03/2021,14/03/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11312,15/03/2021,09/03/2021,F,30,,Discharged,HK resident,Imported case,Confirmed
+11316,16/03/2021,13/03/2021,M,33,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11318,16/03/2021,14/03/2021,M,64,,Discharged,HK resident,Imported case,Confirmed
+11323,16/03/2021,10/03/2021,M,38,,Discharged,HK resident,Local case,Confirmed
+11329,16/03/2021,15/03/2021,M,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11332,17/03/2021,13/03/2021,F,47,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11333,17/03/2021,15/03/2021,M,10,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11334,17/03/2021,15/03/2021,M,27,,Discharged,HK resident,Local case,Confirmed
+11335,17/03/2021,16/03/2021,M,8,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11338,17/03/2021,09/03/2021,F,57,,Discharged,HK resident,Local case,Confirmed
+11345,18/03/2021,12/03/2021,M,15,,Discharged,HK resident,Local case,Confirmed
+11346,18/03/2021,06/03/2021,F,35,,Discharged,HK resident,Local case,Confirmed
+11348,18/03/2021,16/03/2021,M,42,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11349,18/03/2021,16/03/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11351,18/03/2021,04/03/2021,M,36,,Discharged,HK resident,Local case,Confirmed
+11355,19/03/2021,16/03/2021,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11357,19/03/2021,08/03/2021,M,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11358,19/03/2021,16/03/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11360,19/03/2021,09/03/2021,F,62,,Discharged,HK resident,Local case,Confirmed
+11361,19/03/2021,17/03/2021,M,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11362,19/03/2021,17/03/2021,F,41,,Discharged,HK resident,Imported case,Confirmed
+11366,20/03/2021,15/03/2021,F,78,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11367,20/03/2021,10/03/2021,F,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11376,21/03/2021,19/03/2021,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11377,21/03/2021,19/03/2021,M,26,,Discharged,Non-HK resident,Local case,Confirmed
+11380,21/03/2021,19/03/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+11386,22/03/2021,12/03/2021,F,23,,Discharged,HK resident,Imported case,Confirmed
+11388,22/03/2021,19/03/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11389,22/03/2021,20/03/2021,M,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11391,22/03/2021,20/03/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11394,22/03/2021,15/03/2021,M,71,,Discharged,HK resident,Local case,Confirmed
+11398,22/03/2021,17/03/2021,F,52,,Discharged,HK resident,Local case,Confirmed
+11399,23/03/2021,21/03/2021,F,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11401,23/03/2021,21/03/2021,F,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11405,23/03/2021,20/03/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+11407,23/03/2021,17/03/2021,M,88,,Discharged,HK resident,Local case,Confirmed
+11412,24/03/2021,21/03/2021,F,26,,Discharged,HK resident,Imported case,Confirmed
+11414,24/03/2021,22/03/2021,M,44,,Discharged,HK resident,Imported case,Confirmed
+11418,24/03/2021,17/03/2021,M,18,,Discharged,HK resident,Imported case,Confirmed
+11419,24/03/2021,17/03/2021,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11420,24/03/2021,17/03/2021,M,55,,Discharged,HK resident,Local case,Confirmed
+11421,25/03/2021,23/03/2021,M,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11425,25/03/2021,23/03/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11427,25/03/2021,23/03/2021,F,44,,Discharged,HK resident,Imported case,Confirmed
+11428,25/03/2021,22/03/2021,F,43,,Discharged,HK resident,Imported case,Confirmed
+11429,25/03/2021,24/03/2021,F,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11430,26/03/2021,25/03/2021,M,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11434,26/03/2021,18/03/2021,F,38,,Discharged,HK resident,Local case,Confirmed
+11437,26/03/2021,21/03/2021,F,45,,Discharged,HK resident,Imported case,Confirmed
+11441,27/03/2021,25/03/2021,M,32,,Discharged,HK resident,Imported case,Confirmed
+11442,27/03/2021,24/03/2021,F,34,,Discharged,HK resident,Imported case,Confirmed
+11446,27/03/2021,17/03/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+11449,29/03/2021,25/03/2021,M,22,,Discharged,HK resident,Local case,Confirmed
+11450,29/03/2021,25/03/2021,M,28,,Discharged,HK resident,Imported case,Confirmed
+11452,29/03/2021,26/03/2021,F,44,,Discharged,HK resident,Imported case,Confirmed
+11454,29/03/2021,23/03/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+11461,30/03/2021,27/03/2021,M,50,,Discharged,HK resident,Imported case,Confirmed
+11464,31/03/2021,23/03/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+11467,31/03/2021,28/03/2021,M,53,,Discharged,HK resident,Imported case,Confirmed
+11468,31/03/2021,29/03/2021,M,26,,Discharged,HK resident,Local case,Confirmed
+11471,01/04/2021,30/03/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+11476,01/04/2021,28/03/2021,M,23,,Discharged,HK resident,Local case,Confirmed
+11477,01/04/2021,29/03/2021,F,56,,Discharged,HK resident,Local case,Confirmed
+11485,02/04/2021,31/03/2021,M,33,,Discharged,HK resident,Imported case,Confirmed
+11492,02/04/2021,31/03/2021,M,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11493,02/04/2021,31/03/2021,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11494,02/04/2021,29/03/2021,M,33,,Discharged,HK resident,Local case,Confirmed
+11495,02/04/2021,20/03/2021,F,<1,,Discharged,HK resident,Imported case,Confirmed
+11496,02/04/2021,31/03/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+11502,03/04/2021,31/03/2021,M,5,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11511,05/04/2021,10/03/2021,M,32,,Discharged,HK resident,Imported case,Confirmed
+11512,05/04/2021,30/03/2021,M,32,,Discharged,HK resident,Local case,Confirmed
+11515,05/04/2021,04/04/2021,M,39,,Discharged,Non-HK resident,Imported case,Confirmed
+11521,05/04/2021,03/04/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+11526,06/04/2021,24/03/2021,M,39,,Discharged,HK resident,Imported case,Confirmed
+11527,06/04/2021,05/04/2021,M,21,,Discharged,HK resident,Imported case,Confirmed
+11530,06/04/2021,05/04/2021,F,7,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11531,06/04/2021,04/04/2021,M,<1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11535,07/04/2021,03/04/2021,F,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11537,07/04/2021,04/04/2021,M,44,,Discharged,HK resident,Imported case,Confirmed
+11538,07/04/2021,29/03/2021,M,41,,Discharged,HK resident,Local case,Confirmed
+11540,07/04/2021,20/03/2021,M,1,,Discharged,HK resident,Imported case,Confirmed
+11548,08/04/2021,06/04/2021,F,3,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11549,08/04/2021,06/04/2021,F,44,,Discharged,HK resident,Imported case,Confirmed
+11550,08/04/2021,07/04/2021,F,34,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+11552,09/04/2021,01/04/2021,F,67,,Discharged,HK resident,Imported case,Confirmed
+11553,09/04/2021,02/04/2021,M,64,,Discharged,HK resident,Imported case,Confirmed
+11555,09/04/2021,31/03/2021,M,65,,Discharged,HK resident,Imported case,Confirmed
+11556,09/04/2021,26/03/2021,F,42,,Discharged,HK resident,Local case,Confirmed
+11558,09/04/2021,05/04/2021,F,32,,Discharged,HK resident,Imported case,Confirmed
+11560,09/04/2021,07/04/2021,F,32,,Discharged,HK resident,Imported case,Confirmed
+11561,09/04/2021,05/04/2021,F,38,,Discharged,HK resident,Imported case,Confirmed
+11562,09/04/2021,07/04/2021,F,1,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11563,09/04/2021,06/04/2021,M,35,,Discharged,HK resident,Imported case,Confirmed
+11565,10/04/2021,01/04/2021,M,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11567,10/04/2021,08/04/2021,F,47,,Discharged,HK resident,Imported case,Confirmed
+11568,10/04/2021,02/04/2021,M,6,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11569,10/04/2021,08/04/2021,M,42,,Discharged,HK resident,Imported case,Confirmed
+11576,11/04/2021,07/04/2021,M,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11580,11/04/2021,10/04/2021,M,37,,Discharged,HK resident,Imported case,Confirmed
+11582,11/04/2021,09/04/2021,M,29,,Discharged,HK resident,Imported case,Confirmed
+11593,12/04/2021,10/04/2021,F,23,,Discharged,HK resident,Imported case,Confirmed
+11594,12/04/2021,10/04/2021,F,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11595,12/04/2021,10/04/2021,F,57,,Discharged,HK resident,Imported case,Confirmed
+11601,13/04/2021,11/04/2021,F,13,,Discharged,HK resident,Imported case,Confirmed
+11602,13/04/2021,05/04/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11603,13/04/2021,09/04/2021,F,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11604,13/04/2021,04/04/2021,F,55,,Discharged,HK resident,Local case,Confirmed
+11611,14/04/2021,31/03/2021,M,70,,Deceased,HK resident,Local case,Confirmed
+11617,15/04/2021,11/04/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11619,15/04/2021,09/04/2021,F,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11622,16/04/2021,14/04/2021,F,42,,Discharged,HK resident,Imported case,Confirmed
+11623,16/04/2021,06/04/2021,F,59,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11624,16/04/2021,02/04/2021,M,64,,Discharged,HK resident,Local case,Confirmed
+11625,16/04/2021,13/04/2021,F,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11626,16/04/2021,11/04/2021,F,14,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11627,16/04/2021,14/04/2021,M,52,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11635,16/04/2021,13/04/2021,F,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11641,17/04/2021,14/04/2021,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11645,17/04/2021,15/04/2021,M,63,,Discharged,HK resident,Local case,Confirmed
+11647,17/04/2021,11/04/2021,F,21,,Discharged,HK resident,Local case,Confirmed
+11654,17/04/2021,12/04/2021,M,73,,Discharged,HK resident,Local case,Confirmed
+11658,18/04/2021,16/04/2021,M,19,,Discharged,HK resident,Imported case,Confirmed
+11659,18/04/2021,15/04/2021,F,41,,Discharged,HK resident,Imported case,Confirmed
+11682,18/04/2021,15/04/2021,M,55,,Discharged,HK resident,Imported case,Confirmed
+11684,18/04/2021,08/04/2021,F,27,,Discharged,HK resident,Imported case,Confirmed
+11695,19/04/2021,18/04/2021,M,35,,Discharged,HK resident,Imported case,Confirmed
+11700,20/04/2021,16/04/2021,F,57,,Discharged,HK resident,Local case,Confirmed
+11710,22/04/2021,19/04/2021,M,30,,Discharged,Non-HK resident,Imported case,Confirmed
+11711,22/04/2021,20/04/2021,F,31,,Discharged,HK resident,Local case,Confirmed
+11712,22/04/2021,15/04/2021,F,27,,Discharged,HK resident,Imported case,Confirmed
+11716,22/04/2021,17/04/2021,F,53,,Discharged,HK resident,Imported case,Confirmed
+11717,22/04/2021,17/04/2021,M,56,,Discharged,HK resident,Imported case,Confirmed
+11719,22/04/2021,15/04/2021,F,25,,Discharged,HK resident,Imported case,Confirmed
+11720,23/04/2021,21/04/2021,F,56,,Discharged,HK resident,Imported case,Confirmed
+11725,23/04/2021,18/04/2021,F,33,,Discharged,HK resident,Imported case,Confirmed
+11727,23/04/2021,21/04/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+11729,24/04/2021,20/04/2021,M,38,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11741,26/04/2021,23/04/2021,M,57,,Discharged,HK resident,Imported case,Confirmed
+11744,27/04/2021,22/04/2021,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11749,27/04/2021,23/04/2021,M,39,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11750,28/04/2021,24/04/2021,F,28,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11752,28/04/2021,24/04/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+11754,28/04/2021,26/04/2021,M,11,,Discharged,HK resident,Imported case,Confirmed
+11755,28/04/2021,27/04/2021,F,63,,Discharged,HK resident,Imported case,Confirmed
+11757,29/04/2021,26/04/2021,M,75,,Discharged,HK resident,Imported case,Confirmed
+11764,29/04/2021,24/04/2021,M,78,,Discharged,HK resident,Imported case,Confirmed
+11766,29/04/2021,24/04/2021,M,47,,Discharged,HK resident,Imported case,Confirmed
+11768,29/04/2021,25/04/2021,F,40,,Discharged,HK resident,Imported case,Confirmed
+11769,29/04/2021,25/04/2021,F,8,,Discharged,HK resident,Imported case,Confirmed
+11770,29/04/2021,23/04/2021,M,47,,Discharged,HK resident,Imported case,Confirmed
+11773,30/04/2021,23/04/2021,F,39,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+11774,30/04/2021,29/04/2021,F,<1,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+11776,01/05/2021,20/04/2021,F,43,,Discharged,HK resident,Imported case,Confirmed
+11794,05/05/2021,02/05/2021,F,45,,Discharged,HK resident,Imported case,Confirmed
+11795,05/05/2021,02/05/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+11800,07/05/2021,05/05/2021,F,67,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+11804,08/05/2021,04/05/2021,F,33,,Discharged,HK resident,Imported case,Confirmed
+11810,10/05/2021,03/05/2021,F,25,,Discharged,HK resident,Imported case,Confirmed
+11817,13/05/2021,11/05/2021,M,43,,Discharged,HK resident,Imported case,Confirmed
+11822,15/05/2021,12/05/2021,M,4,,Discharged,HK resident,Local case,Confirmed
+11832,23/05/2021,21/05/2021,M,20,,Discharged,HK resident,Imported case,Confirmed
+11837,26/05/2021,24/05/2021,F,27,,Discharged,HK resident,Imported case,Confirmed
+11848,01/06/2021,30/05/2021,F,55,,Discharged,HK resident,Imported case,Confirmed
+11852,05/06/2021,02/06/2021,F,17,,Discharged,HK resident,Local case,Confirmed
+11858,06/06/2021,04/06/2021,M,58,,Discharged,HK resident,Imported case,Confirmed
+11860,07/06/2021,04/06/2021,F,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+11861,07/06/2021,04/06/2021,M,29,,Discharged,HK resident,Imported case,Confirmed
+11867,08/06/2021,06/06/2021,M,19,,Discharged,Non-HK resident,Imported case,Confirmed
+11870,09/06/2021,06/06/2021,M,32,,Discharged,HK resident,Imported case,Confirmed
+11878,12/06/2021,11/06/2021,F,39,,Discharged,HK resident,Imported case,Confirmed
+11879,14/06/2021,13/06/2021,F,40,,Discharged,HK resident,Imported case,Confirmed
+11881,15/06/2021,14/06/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+11884,18/06/2021,16/06/2021,F,39,,Discharged,HK resident,Imported case,Confirmed
+11886,19/06/2021,16/06/2021,F,19,,Discharged,HK resident,Imported case,Confirmed
+11888,21/06/2021,17/06/2021,F,18,,Discharged,HK resident,Imported case,Confirmed
+11898,23/06/2021,21/06/2021,F,34,,Discharged,HK resident,Imported case,Confirmed
+11902,24/06/2021,21/06/2021,M,27,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+11903,24/06/2021,20/06/2021,M,17,,Discharged,HK resident,Imported case,Confirmed
+11906,24/06/2021,21/06/2021,F,45,,Discharged,HK resident,Imported case,Confirmed
+11907,25/06/2021,19/06/2021,M,20,,Discharged,HK resident,Imported case,Confirmed
+11909,25/06/2021,18/06/2021,F,22,,Discharged,HK resident,Imported case,Confirmed
+11913,27/06/2021,25/06/2021,F,22,,Discharged,HK resident,Imported case,Confirmed
+11914,27/06/2021,25/06/2021,M,30,,Discharged,Non-HK resident,Imported case,Confirmed
+11916,27/06/2021,25/06/2021,F,26,,Discharged,HK resident,Imported case,Confirmed
+11918,27/06/2021,26/06/2021,F,24,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+11919,28/06/2021,25/06/2021,F,19,,Discharged,HK resident,Imported case,Confirmed
+11920,28/06/2021,26/06/2021,F,47,,Discharged,HK resident,Imported case,Confirmed
+11921,28/06/2021,27/06/2021,M,20,,Discharged,HK resident,Imported case,Confirmed
+11929,02/07/2021,29/06/2021,M,18,,Discharged,HK resident,Imported case,Confirmed
+11930,02/07/2021,30/06/2021,F,20,,Discharged,HK resident,Imported case,Confirmed
+11931,02/07/2021,28/06/2021,M,17,,Discharged,HK resident,Imported case,Confirmed
+11933,02/07/2021,30/06/2021,M,19,,Discharged,HK resident,Imported case,Confirmed
+11936,02/07/2021,30/06/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+11938,02/07/2021,01/07/2021,M,53,,Discharged,HK resident,Imported case,Confirmed
+11941,04/07/2021,03/07/2021,M,15,,Discharged,HK resident,Imported case,Confirmed
+11942,04/07/2021,02/07/2021,M,20,,Discharged,HK resident,Imported case,Confirmed
+11943,04/07/2021,02/07/2021,M,19,,Discharged,HK resident,Imported case,Confirmed
+11949,08/07/2021,07/07/2021,M,15,,Discharged,HK resident,Imported case,Confirmed
+11954,14/07/2021,10/07/2021,M,53,,Discharged,HK resident,Imported case,Confirmed
+11961,20/07/2021,18/07/2021,M,52,,Discharged,HK resident,Imported case,Confirmed
+11962,20/07/2021,18/07/2021,M,33,,Discharged,HK resident,Imported case,Confirmed
+11964,20/07/2021,17/07/2021,M,58,,Discharged,HK resident,Imported case,Confirmed
+11969,21/07/2021,01/07/2021,F,27,,Discharged,HK resident,Imported case,Confirmed
+11971,21/07/2021,17/07/2021,F,13,,Discharged,Non-HK resident,Imported case,Confirmed
+11980,27/07/2021,24/07/2021,M,37,,Discharged,HK resident,Imported case,Confirmed
+11981,28/07/2021,27/07/2021,F,17,,Discharged,Non-HK resident,Imported case,Confirmed
+11983,29/07/2021,27/07/2021,M,46,,Discharged,HK resident,Imported case,Confirmed
+11994,03/08/2021,01/08/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+11995,03/08/2021,01/08/2021,M,8,,Discharged,HK resident,Imported case,Confirmed
+11997,04/08/2021,02/08/2021,F,31,,Discharged,HK resident,Imported case,Confirmed
+11998,05/08/2021,02/08/2021,F,24,,Discharged,HK resident,Imported case,Confirmed
+12009,07/08/2021,04/08/2021,M,69,,Discharged,HK resident,Imported case,Confirmed
+12011,07/08/2021,06/08/2021,M,58,,Discharged,HK resident,Imported case,Confirmed
+12012,07/08/2021,06/08/2021,M,35,,Discharged,HK resident,Imported case,Confirmed
+12013,08/08/2021,06/08/2021,M,30,,Discharged,Non-HK resident,Imported case,Confirmed
+12023,12/08/2021,12/07/2021,M,38,,Discharged,Non-HK resident,Imported case,Confirmed
+12030,13/08/2021,11/08/2021,F,69,,Discharged,HK resident,Imported case,Confirmed
+12038,17/08/2021,15/08/2021,F,47,,Discharged,HK resident,Local case,Confirmed
+12044,19/08/2021,17/08/2021,F,56,,Discharged,HK resident,Imported case,Confirmed
+12045,19/08/2021,17/08/2021,M,54,,Discharged,HK resident,Imported case,Confirmed
+12048,19/08/2021,15/08/2021,M,<1,,Discharged,HK resident,Imported case,Confirmed
+12053,21/08/2021,20/08/2021,M,11,,Discharged,HK resident,Imported case,Confirmed
+12065,24/08/2021,22/08/2021,F,26,,Discharged,HK resident,Imported case,Confirmed
+12069,24/08/2021,23/08/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+12073,25/08/2021,21/08/2021,M,2,,Discharged,HK resident,Imported case,Confirmed
+12074,25/08/2021,21/08/2021,M,1,,Discharged,HK resident,Imported case,Confirmed
+12075,25/08/2021,23/08/2021,F,3,,Discharged,HK resident,Imported case,Confirmed
+12079,27/08/2021,20/08/2021,M,33,,Discharged,Non-HK resident,Imported case,Confirmed
+12080,27/08/2021,18/08/2021,M,34,,Discharged,Non-HK resident,Imported case,Confirmed
+12081,27/08/2021,07/08/2021,M,45,,Discharged,Non-HK resident,Imported case,Confirmed
+12082,27/08/2021,29/08/2021,M,38,,Discharged,Non-HK resident,Imported case,Confirmed
+12085,27/08/2021,08/08/2021,M,29,,Discharged,Non-HK resident,Imported case,Confirmed
+12086,27/08/2021,14/08/2021,M,29,,Discharged,Non-HK resident,Imported case,Confirmed
+12089,27/08/2021,06/08/2021,M,22,,Discharged,Non-HK resident,Imported case,Confirmed
+12090,27/08/2021,16/08/2021,M,23,,Discharged,Non-HK resident,Imported case,Confirmed
+12099,28/08/2021,24/08/2021,F,<1,,Discharged,HK resident,Imported case,Confirmed
+12102,29/08/2021,25/08/2021,M,68,,Discharged,HK resident,Imported case,Confirmed
+12109,30/08/2021,15/08/2021,M,24,,Discharged,HK resident,Imported case,Confirmed
+12116,03/09/2021,31/08/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+12117,03/09/2021,31/08/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+12129,06/09/2021,03/09/2021,M,20,,Discharged,Non-HK resident,Imported case,Confirmed
+12131,07/09/2021,04/09/2021,M,46,,Discharged,HK resident,Imported case,Confirmed
+12133,07/09/2021,05/09/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+12150,12/09/2021,10/09/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+12152,13/09/2021,11/09/2021,M,26,,Discharged,HK resident,Imported case,Confirmed
+12169,20/09/2021,17/09/2021,M,56,,Discharged,HK resident,Imported case,Confirmed
+12171,20/09/2021,17/09/2021,M,38,,Discharged,HK resident,Imported case,Confirmed
+12183,25/09/2021,23/09/2021,M,57,,Discharged,HK resident,Imported case,Confirmed
+12184,25/09/2021,23/09/2021,F,35,,Discharged,HK resident,Imported case,Confirmed
+12185,25/09/2021,24/09/2021,F,48,,Discharged,HK resident,Imported case,Confirmed
+12198,26/09/2021,22/09/2021,F,46,,Discharged,HK resident,Imported case,Confirmed
+12208,28/09/2021,26/09/2021,M,39,,Discharged,HK resident,Imported case,Confirmed
+12215,28/09/2021,26/09/2021,M,<1,,Discharged,HK resident,Imported case,Confirmed
+12223,30/09/2021,28/09/2021,M,51,,Discharged,HK resident,Imported case,Confirmed
+12237,05/10/2021,03/10/2021,F,46,,Discharged,HK resident,Imported case,Confirmed
+12242,05/10/2021,01/10/2021,M,40,,Discharged,HK resident,Imported case,Confirmed
+12246,06/10/2021,04/10/2021,M,49,,Discharged,HK resident,Imported case,Confirmed
+12249,06/10/2021,30/09/2021,M,50,,Discharged,Non-HK resident,Imported case,Confirmed
+12250,07/10/2021,05/10/2021,F,60,,Discharged,HK resident,Imported case,Confirmed
+12258,08/10/2021,07/10/2021,M,48,,Discharged,HK resident,Local case,Confirmed
+12259,08/10/2021,06/10/2021,M,29,,Discharged,HK resident,Imported case,Confirmed
+12282,14/10/2021,08/10/2021,F,30,,Discharged,HK resident,Imported case,Confirmed
+12288,15/10/2021,12/10/2021,F,5,,Discharged,HK resident,Imported case,Confirmed
+12289,15/10/2021,13/10/2021,F,38,,Discharged,HK resident,Imported case,Confirmed
+12295,16/10/2021,13/10/2021,M,48,,Discharged,HK resident,Imported case,Confirmed
+12307,19/10/2021,18/10/2021,F,3,,Discharged,HK resident,Imported case,Confirmed
+12311,20/10/2021,18/10/2021,M,28,,Discharged,Non-HK resident,Imported case,Confirmed
+12313,21/10/2021,19/10/2021,F,50,,Discharged,HK resident,Imported case,Confirmed
+12318,22/10/2021,19/10/2021,F,31,,Discharged,HK resident,Imported case,Confirmed
+12324,23/10/2021,22/10/2021,M,47,,Discharged,HK resident,Imported case,Confirmed
+12332,25/10/2021,21/10/2021,F,79,,Discharged,Non-HK resident,Imported case,Confirmed
+12336,26/10/2021,15/10/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+12337,27/10/2021,29/09/2021,M,16,,Discharged,HK resident,Imported case,Confirmed
+12351,30/10/2021,28/10/2021,F,23,,Discharged,HK resident,Imported case,Confirmed
+12352,31/10/2021,26/10/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+12353,01/11/2021,29/10/2021,M,56,,Discharged,Non-HK resident,Imported case,Confirmed
+12354,02/11/2021,24/10/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+12357,03/11/2021,01/11/2021,M,62,,Discharged,HK resident,Imported case,Confirmed
+12358,03/11/2021,01/11/2021,F,57,,Discharged,HK resident,Imported case,Confirmed
+12362,04/11/2021,01/11/2021,M,40,,Discharged,HK resident,Imported case,Confirmed
+12367,06/11/2021,31/10/2021,F,2,,Discharged,HK resident,Imported case,Confirmed
+12369,06/11/2021,04/11/2021,F,42,,Discharged,HK resident,Imported case,Confirmed
+12374,07/11/2021,04/11/2021,M,56,,Discharged,HK resident,Imported case,Confirmed
+12378,10/11/2021,08/11/2021,M,29,,Discharged,HK resident,Imported case,Confirmed
+12385,13/11/2021,08/11/2021,F,49,,Discharged,HK resident,Imported case,Confirmed
+12389,15/11/2021,13/11/2021,M,24,,Discharged,HK resident,Imported case,Confirmed
+12391,15/11/2021,10/11/2021,M,24,,Discharged,HK resident,Imported case,Confirmed
+12395,17/11/2021,15/11/2021,M,21,,Discharged,HK resident,Imported case,Confirmed
+12404,20/11/2021,17/11/2021,M,62,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+12409,22/11/2021,20/11/2021,M,23,,Discharged,HK resident,Imported case,Confirmed
+12413,23/11/2021,21/11/2021,M,6,,Discharged,HK resident,Imported case,Confirmed
+12417,24/11/2021,22/11/2021,F,8,,Discharged,Non-HK resident,Imported case,Confirmed
+12429,27/11/2021,25/11/2021,F,72,,Discharged,HK resident,Imported case,Confirmed
+12434,29/11/2021,27/11/2021,M,73,,Discharged,HK resident,Imported case,Confirmed
+12437,30/11/2021,26/11/2021,F,47,,Discharged,HK resident,Imported case,Confirmed
+12438,30/11/2021,22/11/2021,F,9,,Discharged,HK resident,Imported case,Confirmed
+12439,30/11/2021,28/11/2021,M,1,,Discharged,HK resident,Imported case,Confirmed
+12441,30/11/2021,28/11/2021,M,22,,Discharged,HK resident,Imported case,Confirmed
+12444,01/12/2021,24/11/2021,F,61,,Discharged,HK resident,Imported case,Confirmed
+12450,02/12/2021,30/11/2021,M,53,,Discharged,HK resident,Imported case,Confirmed
+12454,03/12/2021,25/11/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+12456,04/12/2021,01/12/2021,M,62,,Discharged,HK resident,Imported case,Confirmed
+12457,04/12/2021,02/12/2021,F,26,,Discharged,HK resident,Imported case,Confirmed
+12465,05/12/2021,02/12/2021,M,48,,Discharged,HK resident,Imported case,Confirmed
+12466,05/12/2021,03/12/2021,M,25,,Discharged,HK resident,Imported case,Confirmed
+12469,06/12/2021,05/12/2021,M,34,,Discharged,HK resident,Imported case,Confirmed
+12471,06/12/2021,04/12/2021,M,37,,Discharged,HK resident,Imported case,Confirmed
+12472,06/12/2021,03/12/2021,F,35,,Discharged,HK resident,Imported case,Confirmed
+12475,07/12/2021,05/12/2021,M,44,,Discharged,HK resident,Imported case,Confirmed
+12479,09/12/2021,07/12/2021,F,49,,Discharged,HK resident,Imported case,Confirmed
+12480,09/12/2021,07/12/2021,F,57,,Discharged,HK resident,Imported case,Confirmed
+12482,09/12/2021,07/12/2021,M,39,,Discharged,HK resident,Imported case,Confirmed
+12492,12/12/2021,09/12/2021,M,14,,Discharged,HK resident,Imported case,Confirmed
+12495,13/12/2021,12/12/2021,M,50,,Discharged,HK resident,Imported case,Confirmed
+12498,14/12/2021,11/12/2021,F,21,,Discharged,HK resident,Imported case,Confirmed
+12507,16/12/2021,14/12/2021,F,24,,Discharged,HK resident,Imported case,Confirmed
+12509,16/12/2021,12/12/2021,M,32,,Discharged,HK resident,Imported case,Confirmed
+12512,16/12/2021,15/12/2021,M,27,,Discharged,Non-HK resident,Imported case,Confirmed
+12513,17/12/2021,15/12/2021,M,36,,Discharged,HK resident,Imported case,Confirmed
+12514,17/12/2021,15/12/2021,M,30,,Discharged,HK resident,Imported case,Confirmed
+12515,17/12/2021,16/12/2021,M,27,,Discharged,HK resident,Imported case,Confirmed
+12525,19/12/2021,16/12/2021,M,59,,Discharged,HK resident,Imported case,Confirmed
+12528,19/12/2021,14/12/2021,F,62,,Discharged,HK resident,Imported case,Confirmed
+12529,19/12/2021,18/12/2021,M,22,,Discharged,HK resident,Imported case,Confirmed
+12530,19/12/2021,16/12/2021,F,20,,Discharged,HK resident,Imported case,Confirmed
+12532,19/12/2021,17/12/2021,M,31,,Discharged,Non-HK resident,Imported case,Confirmed
+12533,20/12/2021,19/12/2021,F,28,,Discharged,Non-HK resident,Imported case,Confirmed
+12537,20/12/2021,17/12/2021,M,33,,Discharged,Non-HK resident,Imported case,Confirmed
+12543,21/12/2021,19/12/2021,M,37,,Discharged,Non-HK resident,Imported case,Confirmed
+12548,22/12/2021,19/12/2021,M,61,,Discharged,HK resident,Imported case,Confirmed
+12551,22/12/2021,17/12/2021,M,56,,Discharged,Non-HK resident,Imported case,Confirmed
+12553,22/12/2021,19/12/2021,M,22,,Discharged,Non-HK resident,Imported case,Confirmed
+12557,24/12/2021,22/12/2021,M,64,,Discharged,HK resident,Epidemiologically linked with imported case,Confirmed
+12559,24/12/2021,22/12/2021,M,46,,Discharged,HK resident,Imported case,Confirmed
+12560,24/12/2021,22/12/2021,F,25,,Discharged,Non-HK resident,Imported case,Confirmed
+12561,24/12/2021,22/12/2021,F,25,,Discharged,HK resident,Imported case,Confirmed
+12565,25/12/2021,21/12/2021,M,41,,Discharged,HK resident,Imported case,Confirmed
+12568,25/12/2021,23/12/2021,M,28,,Discharged,HK resident,Imported case,Confirmed
+12569,25/12/2021,23/12/2021,M,33,,Discharged,HK resident,Imported case,Confirmed
+12570,25/12/2021,23/12/2021,F,33,,Discharged,HK resident,Imported case,Confirmed
+12572,25/12/2021,08/12/2021,M,23,,Discharged,HK resident,Imported case,Confirmed
+12577,25/12/2021,23/12/2021,F,23,,Discharged,Non-HK resident,Imported case,Confirmed
+12582,25/12/2021,23/12/2021,F,65,,Discharged,HK resident,Imported case,Confirmed
+12593,26/12/2021,24/12/2021,F,57,,Discharged,HK resident,Imported case,Confirmed
+12596,27/12/2021,26/12/2021,M,39,,Discharged,Non-HK resident,Imported case,Confirmed
+12599,27/12/2021,26/12/2021,F,55,,Discharged,HK resident,Imported case,Confirmed
+12603,27/12/2021,05/12/2021,F,19,,Discharged,HK resident,Imported case,Confirmed
+12604,27/12/2021,24/12/2021,M,26,,Discharged,HK resident,Imported case,Confirmed
+12606,28/12/2021,25/12/2021,M,16,,Discharged,HK resident,Imported case,Confirmed
+12608,28/12/2021,26/12/2021,M,51,,Discharged,HK resident,Imported case,Confirmed
+12609,28/12/2021,26/12/2021,M,45,,Discharged,HK resident,Imported case,Confirmed
+12611,29/12/2021,26/12/2021,M,44,,Discharged,HK resident,Imported case,Confirmed
+12617,29/12/2021,28/12/2021,F,15,,Discharged,HK resident,Imported case,Confirmed
+12619,29/12/2021,28/12/2021,F,21,,Discharged,HK resident,Imported case,Confirmed
+12621,29/12/2021,27/12/2021,M,24,,Discharged,HK resident,Imported case,Confirmed
+12625,30/12/2021,26/12/2021,M,1,,Discharged,HK resident,Imported case,Confirmed
+12639,31/12/2021,29/12/2021,F,15,,Discharged,HK resident,Imported case,Confirmed
+12647,31/12/2021,29/12/2021,M,32,,Discharged,HK resident,Imported case,Confirmed
+12650,31/12/2021,30/12/2021,F,65,,Discharged,HK resident,Imported case,Confirmed
+12653,31/12/2021,30/12/2021,M,61,,Discharged,HK resident,Imported case,Confirmed
+12654,31/12/2021,29/12/2021,M,34,,Discharged,HK resident,Locally acquired case,Confirmed
+12656,01/01/2022,28/12/2021,F,30,,Discharged,HK resident,Locally acquired case,Confirmed
+12660,01/01/2022,31/12/2021,F,38,,Discharged,HK resident,Imported case,Confirmed
+12661,01/01/2022,30/12/2021,F,38,,Discharged,HK resident,Imported case,Confirmed
+12663,01/01/2022,29/12/2021,F,41,,Discharged,HK resident,Imported case,Confirmed
+12664,01/01/2022,30/12/2021,F,25,,Discharged,Non-HK resident,Imported case,Confirmed
+12666,01/01/2022,30/12/2021,M,54,,Discharged,HK resident,Imported case,Confirmed
+12669,01/01/2022,31/12/2021,F,20,,Discharged,Non-HK resident,Imported case,Confirmed
+12670,01/01/2022,31/12/2021,F,24,,Discharged,Non-HK resident,Imported case,Confirmed
+12673,02/01/2022,30/12/2021,F,50,,Discharged,HK resident,Locally acquired case,Confirmed
+12675,02/01/2022,31/12/2021,F,61,,Discharged,HK resident,Imported case,Confirmed
+12676,02/01/2022,29/12/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+12679,02/01/2022,25/12/2021,M,25,,Discharged,HK resident,Imported case,Confirmed
+12680,02/01/2022,30/12/2021,M,24,,Discharged,HK resident,Imported case,Confirmed
+12682,02/01/2022,31/12/2021,F,27,,Discharged,HK resident,Imported case,Confirmed
+12684,02/01/2022,31/12/2021,F,54,,Discharged,HK resident,Imported case,Confirmed
+12685,02/01/2022,31/12/2021,F,28,,Discharged,HK resident,Imported case,Confirmed
+12686,02/01/2022,31/12/2021,M,21,,Discharged,HK resident,Imported case,Confirmed
+12687,02/01/2022,29/12/2021,M,24,,Discharged,HK resident,Imported case,Confirmed
+12690,02/01/2022,30/12/2021,F,39,,Discharged,HK resident,Imported case,Confirmed
+12693,02/01/2022,30/12/2021,F,60,,Discharged,HK resident,Imported case,Confirmed
+12694,02/01/2022,31/12/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+12697,02/01/2022,31/12/2021,F,46,,Discharged,HK resident,Imported case,Confirmed
+12702,03/01/2022,30/12/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+12728,04/01/2022,31/12/2021,F,37,,Discharged,HK resident,Imported case,Confirmed
+12735,04/01/2022,23/12/2021,F,50,,Discharged,HK resident,Imported case,Confirmed
+12736,04/01/2022,23/12/2021,M,45,,Discharged,HK resident,Imported case,Confirmed
+12737,04/01/2022,30/12/2021,F,13,,Discharged,HK resident,Imported case,Confirmed
+12822,06/01/2022,30/12/2021,F,62,,Discharged,HK resident,Locally acquired case,Confirmed
+12828,06/01/2022,17/12/2021,M,37,,Discharged,HK resident,Imported case,Confirmed
+12843,07/01/2022,09/12/2021,M,29,,Discharged,HK resident,Imported case,Confirmed
+12857,07/01/2022,25/12/2021,F,21,,Discharged,HK resident,Imported case,Confirmed
+12920,09/01/2022,28/12/2021,F,29,,Discharged,HK resident,Imported case,Confirmed
+12929,09/01/2022,13/12/2021,M,21,,Discharged,Non-HK resident,Imported case,Confirmed
+12954,10/01/2022,23/12/2021,F,25,,Discharged,HK resident,Imported case,Confirmed
+12963,10/01/2022,26/12/2021,F,36,,Discharged,HK resident,Imported case,Confirmed
+13316,24/01/2022,29/12/2021,M,30,,Discharged,HK resident,Imported case,Confirmed
+13379,24/01/2022,30/12/2021,F,20,,Discharged,Non-HK resident,Imported case,Confirmed
+13977,29/01/2022,28/12/2021,M,37,,Discharged,HK resident,Locally acquired case,Confirmed
+14498,03/02/2022,29/12/2021,F,51,,Hospitalised,HK resident,Locally acquired case,Confirmed
